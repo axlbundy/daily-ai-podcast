@@ -21,5 +21,15 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-  </channel>
+      <item>
+      <title>AI Briefing — Friday, May 1, 2026</title>
+      <pubDate>Fri, 01 May 2026 15:18:23 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-01/2026-05-01-ai-briefing.mp3</guid>
+      <description>The Defense Department announced Friday it reached agreements with SpaceX, OpenAI, Google, NVIDIA, Reflection, Microsoft and AWS to deploy AI on classified networks (Impact Levels 6 and 7). Anthropic was notably excluded as the Pentagon continues to label it a supply-chain risk, though officials hinted at reconsideration. OpenAI began rolling out GPT-5.5 to Plus, Pro, Business and Enterprise users in ChatGPT and Codex, with GPT-5.5 Pro available to higher tiers. The model offers a 400K context window in Codex and a Fast mode generating tokens 1.5x faster, with API availability coming soon.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-01/2026-05-01-ai-briefing.mp3" length="6354610" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Friday, May 1, 2026</itunes:title>
+      <itunes:summary>The Defense Department announced Friday it reached agreements with SpaceX, OpenAI, Google, NVIDIA, Reflection, Microsoft and AWS to deploy AI on classified networks (Impact Levels 6 and 7). Anthropic was notably excluded as the Pentagon continues to label it a supply-chain risk, though officials hinted at reconsideration. OpenAI began rolling out GPT-5.5 to Plus, Pro, Business and Enterprise users in ChatGPT and Codex, with GPT-5.5 Pro available to higher tiers. The model offers a 400K context window in Codex and a Fast mode generating tokens 1.5x faster, with API availability coming soon.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+</channel>
 </rss>
