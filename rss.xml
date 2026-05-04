@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-      <item>
+          <item>
+      <title>AI Briefing — Monday, May 4, 2026</title>
+      <pubDate>Mon, 04 May 2026 14:48:12 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-04/2026-05-04-ai-briefing.mp3</guid>
+      <description>Anthropic announced today (May 4, 2026) the formation of a new enterprise AI services company in partnership with Blackstone, Hellman &amp; Friedman, and Goldman Sachs. The move signals deepening Wall Street and private equity involvement in deploying frontier AI models for large enterprise customers. The Department of Defense announced agreements with AWS, Google, Microsoft, NVIDIA, OpenAI, SpaceX, Oracle, and Reflection to deploy AI on classified networks, deliberately excluding Anthropic after its refusal to allow Claude for autonomous weapons and mass surveillance use. The deal reshapes the U.S. government AI supply chain and intensifies the political fight over AI safety guardrails.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-04/2026-05-04-ai-briefing.mp3" length="6814622" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Monday, May 4, 2026</itunes:title>
+      <itunes:summary>Anthropic announced today (May 4, 2026) the formation of a new enterprise AI services company in partnership with Blackstone, Hellman &amp; Friedman, and Goldman Sachs. The move signals deepening Wall Street and private equity involvement in deploying frontier AI models for large enterprise customers. The Department of Defense announced agreements with AWS, Google, Microsoft, NVIDIA, OpenAI, SpaceX, Oracle, and Reflection to deploy AI on classified networks, deliberately excluding Anthropic after its refusal to allow Claude for autonomous weapons and mass surveillance use. The deal reshapes the U.S. government AI supply chain and intensifies the political fight over AI safety guardrails.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Friday, May 1, 2026</title>
       <pubDate>Fri, 01 May 2026 15:18:23 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-01/2026-05-01-ai-briefing.mp3</guid>
