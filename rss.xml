@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-          <item>
+              <item>
+      <title>AI Briefing — Tuesday, May 5, 2026</title>
+      <pubDate>Tue, 05 May 2026 07:35:51 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-05/2026-05-05-ai-briefing.mp3</guid>
+      <description>The White House is considering an executive order that would give the federal government a formal role in vetting all new AI models before market release, briefing executives from Anthropic, Google and OpenAI on early plans. A working group of tech executives and U.S. officials would design the oversight process, with options including formal government review. The Pentagon finalized AI agreements with OpenAI, Google, Microsoft, Amazon, Oracle, Nvidia, SpaceX, and Reflection AI to expand AI use into classified environments for analysis, logistics, and large-scale data processing. Anthropic was excluded after being labeled a supply-chain risk following a contract dispute, a designation it is contesting in court.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-05/2026-05-05-ai-briefing.mp3" length="6280848" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Tuesday, May 5, 2026</itunes:title>
+      <itunes:summary>The White House is considering an executive order that would give the federal government a formal role in vetting all new AI models before market release, briefing executives from Anthropic, Google and OpenAI on early plans. A working group of tech executives and U.S. officials would design the oversight process, with options including formal government review. The Pentagon finalized AI agreements with OpenAI, Google, Microsoft, Amazon, Oracle, Nvidia, SpaceX, and Reflection AI to expand AI use into classified environments for analysis, logistics, and large-scale data processing. Anthropic was excluded after being labeled a supply-chain risk following a contract dispute, a designation it is contesting in court.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Monday, May 4, 2026</title>
       <pubDate>Mon, 04 May 2026 14:48:12 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-04/2026-05-04-ai-briefing.mp3</guid>
