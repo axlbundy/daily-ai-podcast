@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-              <item>
+                  <item>
+      <title>AI Briefing — Wednesday, May 6, 2026</title>
+      <pubDate>Wed, 06 May 2026 07:35:44 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-06/2026-05-06-ai-briefing.mp3</guid>
+      <description>Anthropic signed a five-year deal to spend $200 billion on Google Cloud TPUs and infrastructure, with capacity coming online starting in 2027. The commitment, reported May 5, signals the staggering infrastructure costs of frontier AI and deepens Anthropic's dependence on Google rather than alternative providers. The Center for AI Standards and Innovation (CAISI), within the US Commerce Department, announced agreements with Google DeepMind, Microsoft and xAI to evaluate frontier AI models before public release. The move expands earlier OpenAI and Anthropic agreements and follows White House concerns over Anthropic's powerful Mythos cybersecurity model.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-06/2026-05-06-ai-briefing.mp3" length="6175241" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Wednesday, May 6, 2026</itunes:title>
+      <itunes:summary>Anthropic signed a five-year deal to spend $200 billion on Google Cloud TPUs and infrastructure, with capacity coming online starting in 2027. The commitment, reported May 5, signals the staggering infrastructure costs of frontier AI and deepens Anthropic's dependence on Google rather than alternative providers. The Center for AI Standards and Innovation (CAISI), within the US Commerce Department, announced agreements with Google DeepMind, Microsoft and xAI to evaluate frontier AI models before public release. The move expands earlier OpenAI and Anthropic agreements and follows White House concerns over Anthropic's powerful Mythos cybersecurity model.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Tuesday, May 5, 2026</title>
       <pubDate>Tue, 05 May 2026 07:35:51 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-05/2026-05-05-ai-briefing.mp3</guid>
