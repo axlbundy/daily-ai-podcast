@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                  <item>
+                      <item>
+      <title>AI Briefing — Thursday, May 7, 2026</title>
+      <pubDate>Thu, 07 May 2026 07:35:53 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-07/2026-05-07-ai-briefing.mp3</guid>
+      <description>Nvidia and Corning announced a multiyear partnership to build three new advanced manufacturing facilities in North Carolina and Texas, expanding Corning's US optical connectivity manufacturing capacity tenfold and creating more than 3,000 jobs. The deal gives Nvidia warrants to invest up to $3.2 billion in Corning and supports a phased transition from copper to optical fiber inside AI rack-scale systems. Anthropic unveiled 10 prebuilt agent templates targeting banking, insurance and asset management tasks like pitchbook drafting, KYC screening and month-end close, deployed via Claude Cowork, Claude Code and Managed Agents. The launch debuted Claude Opus 4.7, which Anthropic says scored 64.37% on Vals AI's Finance Agent benchmark, ahead of GPT-5.5 and Gemini 3.1 Pro.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-07/2026-05-07-ai-briefing.mp3" length="6243967" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Thursday, May 7, 2026</itunes:title>
+      <itunes:summary>Nvidia and Corning announced a multiyear partnership to build three new advanced manufacturing facilities in North Carolina and Texas, expanding Corning's US optical connectivity manufacturing capacity tenfold and creating more than 3,000 jobs. The deal gives Nvidia warrants to invest up to $3.2 billion in Corning and supports a phased transition from copper to optical fiber inside AI rack-scale systems. Anthropic unveiled 10 prebuilt agent templates targeting banking, insurance and asset management tasks like pitchbook drafting, KYC screening and month-end close, deployed via Claude Cowork, Claude Code and Managed Agents. The launch debuted Claude Opus 4.7, which Anthropic says scored 64.37% on Vals AI's Finance Agent benchmark, ahead of GPT-5.5 and Gemini 3.1 Pro.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Wednesday, May 6, 2026</title>
       <pubDate>Wed, 06 May 2026 07:35:44 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-06/2026-05-06-ai-briefing.mp3</guid>
