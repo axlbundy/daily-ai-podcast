@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                      <item>
+                          <item>
+      <title>AI Briefing — Friday, May 8, 2026</title>
+      <pubDate>Fri, 08 May 2026 13:00:22 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-08/2026-05-08-ai-briefing.mp3</guid>
+      <description>Anthropic announced an agreement with SpaceX to use all compute capacity at the Colossus 1 data center, gaining over 300 megawatts and more than 220,000 NVIDIA GPUs within the month. The capacity will directly improve service for Claude Pro and Claude Max subscribers, joining existing multi-gigawatt deals with Amazon, Google, and Microsoft. The US Center for AI Standards and Innovation announced agreements allowing Google DeepMind, Microsoft and xAI to submit frontier models for pre-deployment evaluation, joining existing OpenAI and Anthropic partnerships. The move follows alarm over Anthropic's Mythos cybersecurity model and signals expanded federal oversight of frontier AI.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-08/2026-05-08-ai-briefing.mp3" length="6225696" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Friday, May 8, 2026</itunes:title>
+      <itunes:summary>Anthropic announced an agreement with SpaceX to use all compute capacity at the Colossus 1 data center, gaining over 300 megawatts and more than 220,000 NVIDIA GPUs within the month. The capacity will directly improve service for Claude Pro and Claude Max subscribers, joining existing multi-gigawatt deals with Amazon, Google, and Microsoft. The US Center for AI Standards and Innovation announced agreements allowing Google DeepMind, Microsoft and xAI to submit frontier models for pre-deployment evaluation, joining existing OpenAI and Anthropic partnerships. The move follows alarm over Anthropic's Mythos cybersecurity model and signals expanded federal oversight of frontier AI.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Thursday, May 7, 2026</title>
       <pubDate>Thu, 07 May 2026 07:35:53 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-07/2026-05-07-ai-briefing.mp3</guid>
