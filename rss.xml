@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                          <item>
+                              <item>
+      <title>AI Briefing — Friday, May 8, 2026</title>
+      <pubDate>Fri, 08 May 2026 13:53:02 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-08/2026-05-08-ai-briefing.mp3</guid>
+      <description>OpenAI rolled out GPT-5.5-Cyber on Thursday to vetted cyber defenders, a more permissive variant of GPT-5.5 trained for vulnerability identification, patch validation, and malware analysis. While defender-focused, it signals how rapidly frontier models are gaining real-world bug-finding capability, with the UK AI Security Institute reporting GPT-5.5 completed a 32-step simulated cyberattack in 2 of 10 runs. Anthropic's latest Claude Code release adds an ANTHROPIC_BEDROCK_SERVICE_TIER environment variable for selecting Bedrock tiers (default/flex/priority), smarter /resume PR URL search across GitHub/GitLab/Bitbucket, improved MCP connector handling, and expanded OpenTelemetry numeric attributes. Useful for developers and homelabbers running Claude Code against AWS Bedrock or self-hosted MCP servers who want better observability and session recovery.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-08/2026-05-08-ai-briefing.mp3" length="6205836" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Friday, May 8, 2026</itunes:title>
+      <itunes:summary>OpenAI rolled out GPT-5.5-Cyber on Thursday to vetted cyber defenders, a more permissive variant of GPT-5.5 trained for vulnerability identification, patch validation, and malware analysis. While defender-focused, it signals how rapidly frontier models are gaining real-world bug-finding capability, with the UK AI Security Institute reporting GPT-5.5 completed a 32-step simulated cyberattack in 2 of 10 runs. Anthropic's latest Claude Code release adds an ANTHROPIC_BEDROCK_SERVICE_TIER environment variable for selecting Bedrock tiers (default/flex/priority), smarter /resume PR URL search across GitHub/GitLab/Bitbucket, improved MCP connector handling, and expanded OpenTelemetry numeric attributes. Useful for developers and homelabbers running Claude Code against AWS Bedrock or self-hosted MCP servers who want better observability and session recovery.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Friday, May 8, 2026</title>
       <pubDate>Fri, 08 May 2026 13:00:22 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-08/2026-05-08-ai-briefing.mp3</guid>
