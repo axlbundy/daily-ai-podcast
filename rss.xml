@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                              <item>
+                                  <item>
+      <title>AI Briefing — Saturday, May 9, 2026</title>
+      <pubDate>Sat, 09 May 2026 07:38:59 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-09/2026-05-09-ai-briefing.mp3</guid>
+      <description>Google announced Gemini 3.1 Flash-Lite is now generally available on Vertex AI and the Gemini API, priced at $0.25/1M input and $1.50/1M output tokens with selectable thinking levels (minimal/low/medium/high). It supports text, image, video, audio, and PDF inputs in a 1M token window — making it a practical workhorse for hobbyists building high-volume agent pipelines, routers, and local-to-cloud hybrid setups. ElevenLabs launched Studio Agent inside ElevenCreative — an AI co-editor that drafts videos directly on the timeline from a text prompt, places sound effects frame-accurately, and lets users interrupt and take back control at any moment. For creators and homelabbers experimenting with automated content workflows, this is a notable jump beyond plain TTS into full multimodal editing assistance.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-09/2026-05-09-ai-briefing.mp3" length="6141107" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Saturday, May 9, 2026</itunes:title>
+      <itunes:summary>Google announced Gemini 3.1 Flash-Lite is now generally available on Vertex AI and the Gemini API, priced at $0.25/1M input and $1.50/1M output tokens with selectable thinking levels (minimal/low/medium/high). It supports text, image, video, audio, and PDF inputs in a 1M token window — making it a practical workhorse for hobbyists building high-volume agent pipelines, routers, and local-to-cloud hybrid setups. ElevenLabs launched Studio Agent inside ElevenCreative — an AI co-editor that drafts videos directly on the timeline from a text prompt, places sound effects frame-accurately, and lets users interrupt and take back control at any moment. For creators and homelabbers experimenting with automated content workflows, this is a notable jump beyond plain TTS into full multimodal editing assistance.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Friday, May 8, 2026</title>
       <pubDate>Fri, 08 May 2026 13:53:02 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-08/2026-05-08-ai-briefing.mp3</guid>
