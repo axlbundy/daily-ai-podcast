@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                  <item>
+                                      <item>
+      <title>AI Briefing — Sunday, May 10, 2026</title>
+      <pubDate>Sun, 10 May 2026 07:39:45 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-10/2026-05-10-ai-briefing.mp3</guid>
+      <description>OpenAI shipped three new audio models on May 7: GPT-Realtime-2 with GPT-5-class reasoning and a 128K context window, GPT-Realtime-Translate covering 70+ input languages into 13 outputs, and a streaming Whisper variant — all in the Realtime API. Translate at $0.034/min and Whisper at $0.017/min undercut most existing voice pipelines, making it newly practical for hobbyists to build live multilingual assistants and home voice agents. Google introduced Gemma 4 in four sizes (E2B, E4B, 26B MoE, 31B Dense) under Apache 2.0, with the 31B model ranking #3 on the open Arena leaderboard. Edge variants ship native audio input, video and image processing, 128K–256K context, and 140+ languages — making it one of the most capable models hobbyists can run on a single workstation or Jetson Orin.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-10/2026-05-10-ai-briefing.mp3" length="6405040" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Sunday, May 10, 2026</itunes:title>
+      <itunes:summary>OpenAI shipped three new audio models on May 7: GPT-Realtime-2 with GPT-5-class reasoning and a 128K context window, GPT-Realtime-Translate covering 70+ input languages into 13 outputs, and a streaming Whisper variant — all in the Realtime API. Translate at $0.034/min and Whisper at $0.017/min undercut most existing voice pipelines, making it newly practical for hobbyists to build live multilingual assistants and home voice agents. Google introduced Gemma 4 in four sizes (E2B, E4B, 26B MoE, 31B Dense) under Apache 2.0, with the 31B model ranking #3 on the open Arena leaderboard. Edge variants ship native audio input, video and image processing, 128K–256K context, and 140+ languages — making it one of the most capable models hobbyists can run on a single workstation or Jetson Orin.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Saturday, May 9, 2026</title>
       <pubDate>Sat, 09 May 2026 07:38:59 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-09/2026-05-09-ai-briefing.mp3</guid>
