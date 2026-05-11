@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                      <item>
+                                          <item>
+      <title>AI Briefing — Monday, May 11, 2026</title>
+      <pubDate>Mon, 11 May 2026 07:39:26 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-11/2026-05-11-ai-briefing.mp3</guid>
+      <description>Anthropic signed an agreement with SpaceX to take all the compute capacity at the Colossus 1 data center, gaining over 300 megawatts and more than 220,000 NVIDIA GPUs within the month to directly expand capacity for Claude Pro and Max subscribers. The company also doubled Claude Code's five-hour rate limits for Pro, Max, Team, and seat-based Enterprise plans and removed peak-hours throttling, which matters for any developer hitting Claude Code usage walls. Anthropic even floated partnering with SpaceX on multi-gigawatt orbital AI compute. OpenAI made Workspace Agents generally available to eligible ChatGPT Enterprise workspaces with Enterprise Key Management, letting teams build agents from templates or scratch, share them across a workspace, schedule recurring runs, and trigger them in Slack with custom MCP servers and skills attached. For developers and power users this is the first time ChatGPT's agent layer becomes a managed, governed, schedulable thing rather than a one-off chat session, with version history and analytics built in.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-11/2026-05-11-ai-briefing.mp3" length="6313842" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Monday, May 11, 2026</itunes:title>
+      <itunes:summary>Anthropic signed an agreement with SpaceX to take all the compute capacity at the Colossus 1 data center, gaining over 300 megawatts and more than 220,000 NVIDIA GPUs within the month to directly expand capacity for Claude Pro and Max subscribers. The company also doubled Claude Code's five-hour rate limits for Pro, Max, Team, and seat-based Enterprise plans and removed peak-hours throttling, which matters for any developer hitting Claude Code usage walls. Anthropic even floated partnering with SpaceX on multi-gigawatt orbital AI compute. OpenAI made Workspace Agents generally available to eligible ChatGPT Enterprise workspaces with Enterprise Key Management, letting teams build agents from templates or scratch, share them across a workspace, schedule recurring runs, and trigger them in Slack with custom MCP servers and skills attached. For developers and power users this is the first time ChatGPT's agent layer becomes a managed, governed, schedulable thing rather than a one-off chat session, with version history and analytics built in.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Sunday, May 10, 2026</title>
       <pubDate>Sun, 10 May 2026 07:39:45 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-10/2026-05-10-ai-briefing.mp3</guid>
