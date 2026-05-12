@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                          <item>
+                                              <item>
+      <title>AI Briefing — Tuesday, May 12, 2026</title>
+      <pubDate>Tue, 12 May 2026 07:41:54 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-12/2026-05-12-ai-briefing.mp3</guid>
+      <description>AI chipmaker Cerebras Systems sharply raised its IPO price range to $150–$160 per share (up from $115–$125), targeting up to $4.8 billion in proceeds as the offering drew orders more than 20 times the available shares. The Nasdaq listing, expected May 13–14 under ticker CBRS, makes this the largest pure-play AI infrastructure IPO of the year. With a wafer-scale chip 57× larger than Nvidia's H100 and a multi-year OpenAI deal for 750MW of compute, Cerebras is positioning itself as the inference-speed alternative to GPU clusters — directly relevant to anyone watching the AI hardware stack evolve. OpenAI has introduced GPT-Rosalind, a frontier reasoning model purpose-built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows. This marks a significant push into domain-specific science AI rather than general-purpose assistants, with direct applications for researchers and biotech developers. It signals that the next wave of frontier model launches will be increasingly vertical and task-specific rather than general upgrades.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-12/2026-05-12-ai-briefing.mp3" length="6612379" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Tuesday, May 12, 2026</itunes:title>
+      <itunes:summary>AI chipmaker Cerebras Systems sharply raised its IPO price range to $150–$160 per share (up from $115–$125), targeting up to $4.8 billion in proceeds as the offering drew orders more than 20 times the available shares. The Nasdaq listing, expected May 13–14 under ticker CBRS, makes this the largest pure-play AI infrastructure IPO of the year. With a wafer-scale chip 57× larger than Nvidia's H100 and a multi-year OpenAI deal for 750MW of compute, Cerebras is positioning itself as the inference-speed alternative to GPU clusters — directly relevant to anyone watching the AI hardware stack evolve. OpenAI has introduced GPT-Rosalind, a frontier reasoning model purpose-built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows. This marks a significant push into domain-specific science AI rather than general-purpose assistants, with direct applications for researchers and biotech developers. It signals that the next wave of frontier model launches will be increasingly vertical and task-specific rather than general upgrades.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Monday, May 11, 2026</title>
       <pubDate>Mon, 11 May 2026 07:39:26 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-11/2026-05-11-ai-briefing.mp3</guid>
