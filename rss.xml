@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                              <item>
+                                                  <item>
+      <title>AI Briefing — Wednesday, May 13, 2026</title>
+      <pubDate>Wed, 13 May 2026 08:23:43 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-13/2026-05-13-ai-briefing.mp3</guid>
+      <description>At The Android Show: I/O Edition on May 12, Google announced Gemini Intelligence, a suite of agentic AI features that transforms Android from an operating system into what it calls an 'intelligence system.' The update enables Gemini to automate multi-step tasks across apps — booking reservations, building shopping carts, filling complex forms — with user-controlled permissions, rolling out first on Samsung Galaxy and Pixel phones this summer. For AI enthusiasts and developers, Android AppFunctions also debuts, a new API letting app developers expose actions directly to Gemini for high-intent, Gemini-driven user traffic. Anthropic formally launched 'Claude for Legal' on May 12, releasing more than 20 MCP connectors linking Claude to the software law firms run on — including DocuSign, iManage, Relativity, Harvey, and Thomson Reuters' CoCounsel Legal — plus 12 practice-area plugins covering commercial counsel, employment law, and litigation. CoCounsel's next generation is being rebuilt on Anthropic's Claude Agent SDK, enabling it to plan, select tools, retrieve Westlaw and Practical Law content, and adapt mid-workflow. A recent Claude legal webinar drew over 20,000 registrations, signaling massive demand for AI in legal workflows.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-13/2026-05-13-ai-briefing.mp3" length="6580490" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Wednesday, May 13, 2026</itunes:title>
+      <itunes:summary>At The Android Show: I/O Edition on May 12, Google announced Gemini Intelligence, a suite of agentic AI features that transforms Android from an operating system into what it calls an 'intelligence system.' The update enables Gemini to automate multi-step tasks across apps — booking reservations, building shopping carts, filling complex forms — with user-controlled permissions, rolling out first on Samsung Galaxy and Pixel phones this summer. For AI enthusiasts and developers, Android AppFunctions also debuts, a new API letting app developers expose actions directly to Gemini for high-intent, Gemini-driven user traffic. Anthropic formally launched 'Claude for Legal' on May 12, releasing more than 20 MCP connectors linking Claude to the software law firms run on — including DocuSign, iManage, Relativity, Harvey, and Thomson Reuters' CoCounsel Legal — plus 12 practice-area plugins covering commercial counsel, employment law, and litigation. CoCounsel's next generation is being rebuilt on Anthropic's Claude Agent SDK, enabling it to plan, select tools, retrieve Westlaw and Practical Law content, and adapt mid-workflow. A recent Claude legal webinar drew over 20,000 registrations, signaling massive demand for AI in legal workflows.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Tuesday, May 12, 2026</title>
       <pubDate>Tue, 12 May 2026 07:41:54 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-12/2026-05-12-ai-briefing.mp3</guid>
