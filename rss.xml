@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                  <item>
+                                                      <item>
+      <title>AI Briefing — Thursday, May 14, 2026</title>
+      <pubDate>Thu, 14 May 2026 07:43:20 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-14/2026-05-14-ai-briefing.mp3</guid>
+      <description>At the Android Show: I/O Edition on May 13, 2026, Google unveiled Gemini Intelligence — a sweeping suite of agentic AI features that lets Android complete multi-step tasks across apps, auto-fill forms via Gmail context, generate custom widgets from natural language, and browse the web autonomously. Android chief Sameer Samat declared Google is 'transitioning from an operating system to an intelligence system.' Rolling out first to Samsung Galaxy and Pixel this summer, with Google I/O on May 19 expected to bring a new frontier Gemini model announcement. Announced at the Code with Claude 2026 developer conference on May 6, Anthropic introduced 'dreaming' for Claude Managed Agents — a scheduled background process that reviews past agent sessions, extracts patterns, prunes stale memory, and writes refined playbooks before the next session starts. Early adopter Harvey AI reported a 6x jump in task completion rates after implementing it. The feature, invokable via a /dream command or run automatically, does not modify model weights but updates an inspectable external memory layer, making it a major step toward production-grade self-improving agents.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-14/2026-05-14-ai-briefing.mp3" length="6258870" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Thursday, May 14, 2026</itunes:title>
+      <itunes:summary>At the Android Show: I/O Edition on May 13, 2026, Google unveiled Gemini Intelligence — a sweeping suite of agentic AI features that lets Android complete multi-step tasks across apps, auto-fill forms via Gmail context, generate custom widgets from natural language, and browse the web autonomously. Android chief Sameer Samat declared Google is 'transitioning from an operating system to an intelligence system.' Rolling out first to Samsung Galaxy and Pixel this summer, with Google I/O on May 19 expected to bring a new frontier Gemini model announcement. Announced at the Code with Claude 2026 developer conference on May 6, Anthropic introduced 'dreaming' for Claude Managed Agents — a scheduled background process that reviews past agent sessions, extracts patterns, prunes stale memory, and writes refined playbooks before the next session starts. Early adopter Harvey AI reported a 6x jump in task completion rates after implementing it. The feature, invokable via a /dream command or run automatically, does not modify model weights but updates an inspectable external memory layer, making it a major step toward production-grade self-improving agents.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Wednesday, May 13, 2026</title>
       <pubDate>Wed, 13 May 2026 08:23:43 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-13/2026-05-13-ai-briefing.mp3</guid>
