@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                      <item>
+                                                          <item>
+      <title>AI Briefing — Friday, May 15, 2026</title>
+      <pubDate>Fri, 15 May 2026 07:44:25 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-15/2026-05-15-ai-briefing.mp3</guid>
+      <description>On May 14, 2026, OpenAI rolled out Codex inside the ChatGPT mobile app on iOS and Android as a preview available across all plans, including Free and Go tiers. The phone acts as a live control panel — developers can approve agent commands, review diffs, redirect running tasks, and monitor terminal output without returning to their desk. OpenAI also made Remote SSH generally available and added HIPAA-compliant Codex for eligible Enterprise workspaces in the same announcement. Meta launched Incognito Chat with Meta AI on May 13, 2026, a feature for WhatsApp and the Meta AI app that processes conversations in Trusted Execution Environments so that even Meta cannot read them — conversations are not saved and disappear by default when the session ends. The feature is designed for sensitive questions about health, finances, or personal matters, and is rolling out globally over coming months. Unlike competitor 'temporary' modes, Meta claims no server-side access to message content, though security researchers have flagged accountability concerns.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-15/2026-05-15-ai-briefing.mp3" length="6348505" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Friday, May 15, 2026</itunes:title>
+      <itunes:summary>On May 14, 2026, OpenAI rolled out Codex inside the ChatGPT mobile app on iOS and Android as a preview available across all plans, including Free and Go tiers. The phone acts as a live control panel — developers can approve agent commands, review diffs, redirect running tasks, and monitor terminal output without returning to their desk. OpenAI also made Remote SSH generally available and added HIPAA-compliant Codex for eligible Enterprise workspaces in the same announcement. Meta launched Incognito Chat with Meta AI on May 13, 2026, a feature for WhatsApp and the Meta AI app that processes conversations in Trusted Execution Environments so that even Meta cannot read them — conversations are not saved and disappear by default when the session ends. The feature is designed for sensitive questions about health, finances, or personal matters, and is rolling out globally over coming months. Unlike competitor 'temporary' modes, Meta claims no server-side access to message content, though security researchers have flagged accountability concerns.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Thursday, May 14, 2026</title>
       <pubDate>Thu, 14 May 2026 07:43:20 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-14/2026-05-14-ai-briefing.mp3</guid>
