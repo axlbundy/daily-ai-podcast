@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                          <item>
+                                                              <item>
+      <title>AI Briefing — Saturday, May 16, 2026</title>
+      <pubDate>Sat, 16 May 2026 07:43:29 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-16/2026-05-16-ai-briefing.mp3</guid>
+      <description>OpenAI launched a personal finance feature for ChatGPT Pro users in the US on May 15, letting them securely connect accounts from over 12,000 financial institutions through Plaid — including Chase, Fidelity, Schwab, Robinhood, and American Express. Once linked, ChatGPT provides a live dashboard of spending habits, subscriptions, portfolio performance, and upcoming payments, powered by GPT-5.5 Thinking. This marks a significant move by OpenAI to position ChatGPT as a 'super app' interface layer between users and their money, threatening fintech incumbents and raising notable privacy questions. Anthropic launched Claude for Small Business on May 13, a packaged set of 15 ready-to-run agentic workflows, 15 reusable skills, and connectors to QuickBooks, PayPal, HubSpot, Canva, DocuSign, Google Workspace, Microsoft 365, and Slack — all installed as a toggle inside Claude Cowork. The product targets the 36 million US small businesses that have largely been left out of the AI boom, handling tasks like payroll planning, month-end close, invoice chasing, and campaign management. Alongside the launch, Anthropic is offering a free AI Fluency course co-developed with PayPal and a 10-city US workshop tour.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-16/2026-05-16-ai-briefing.mp3" length="6360053" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Saturday, May 16, 2026</itunes:title>
+      <itunes:summary>OpenAI launched a personal finance feature for ChatGPT Pro users in the US on May 15, letting them securely connect accounts from over 12,000 financial institutions through Plaid — including Chase, Fidelity, Schwab, Robinhood, and American Express. Once linked, ChatGPT provides a live dashboard of spending habits, subscriptions, portfolio performance, and upcoming payments, powered by GPT-5.5 Thinking. This marks a significant move by OpenAI to position ChatGPT as a 'super app' interface layer between users and their money, threatening fintech incumbents and raising notable privacy questions. Anthropic launched Claude for Small Business on May 13, a packaged set of 15 ready-to-run agentic workflows, 15 reusable skills, and connectors to QuickBooks, PayPal, HubSpot, Canva, DocuSign, Google Workspace, Microsoft 365, and Slack — all installed as a toggle inside Claude Cowork. The product targets the 36 million US small businesses that have largely been left out of the AI boom, handling tasks like payroll planning, month-end close, invoice chasing, and campaign management. Alongside the launch, Anthropic is offering a free AI Fluency course co-developed with PayPal and a 10-city US workshop tour.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Friday, May 15, 2026</title>
       <pubDate>Fri, 15 May 2026 07:44:25 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-15/2026-05-15-ai-briefing.mp3</guid>
