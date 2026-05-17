@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                              <item>
+                                                                  <item>
+      <title>AI Briefing — Sunday, May 17, 2026</title>
+      <pubDate>Sun, 17 May 2026 07:42:57 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-17/2026-05-17-ai-briefing.mp3</guid>
+      <description>Anthropic is reportedly close to buying Stainless, the four-year-old New York startup whose AI-powered compiler auto-generates production-ready SDKs and MCP servers for OpenAI, Google, Meta, Cloudflare, and Cerebras — meaning Anthropic could soon own the toolchain rivals use to ship their own developer libraries. The deal, first reported May 12, values Stainless at over $300M and would give Anthropic a compounding flywheel over the developer infrastructure layer as MCP adoption surges across the industry. OpenAI announced Friday that co-founder and president Greg Brockman will permanently lead all product strategy, formally merging ChatGPT, the Codex coding agent, and the developer API into a single organization three days before Google I/O 2026 opens on May 19. The goal is a desktop 'super app' that unifies Codex, ChatGPT, and the Atlas browser into one agentic workspace — a direct response to Claude Code's developer momentum and Google's Gemini push, though no firm launch date has been set.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-17/2026-05-17-ai-briefing.mp3" length="6163731" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Sunday, May 17, 2026</itunes:title>
+      <itunes:summary>Anthropic is reportedly close to buying Stainless, the four-year-old New York startup whose AI-powered compiler auto-generates production-ready SDKs and MCP servers for OpenAI, Google, Meta, Cloudflare, and Cerebras — meaning Anthropic could soon own the toolchain rivals use to ship their own developer libraries. The deal, first reported May 12, values Stainless at over $300M and would give Anthropic a compounding flywheel over the developer infrastructure layer as MCP adoption surges across the industry. OpenAI announced Friday that co-founder and president Greg Brockman will permanently lead all product strategy, formally merging ChatGPT, the Codex coding agent, and the developer API into a single organization three days before Google I/O 2026 opens on May 19. The goal is a desktop 'super app' that unifies Codex, ChatGPT, and the Atlas browser into one agentic workspace — a direct response to Claude Code's developer momentum and Google's Gemini push, though no firm launch date has been set.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Saturday, May 16, 2026</title>
       <pubDate>Sat, 16 May 2026 07:43:29 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-16/2026-05-16-ai-briefing.mp3</guid>
