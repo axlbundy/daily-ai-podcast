@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                  <item>
+                                                                      <item>
+      <title>AI Briefing — Monday, May 18, 2026</title>
+      <pubDate>Mon, 18 May 2026 07:43:00 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-18/2026-05-18-ai-briefing.mp3</guid>
+      <description>Google's annual developer conference kicks off May 19 with the main keynote at 10 a.m. PT, and developer buzz is at a fever pitch. Reports and session leaks strongly point to a Gemini 4 reveal with a potential 10M-token context window, alongside Android XR smart glasses previews with Samsung and Warby Parker, and the debut of Aluminium OS — Google's Android-based ChromeOS replacement. For AI developers, the API and agentic-coding tool announcements will be the ones to watch. Vercel Labs released Zero (v0.1.1, Apache-2.0) on May 15, an experimental systems programming language built from the ground up for agentic coding workflows rather than human developers. Its compiler emits structured JSON diagnostics with stable error codes and typed repair metadata so agents can parse and fix errors without human-readable text interpretation — directly addressing a key failure mode in Claude Code and Copilot loops. The repo hit 900 GitHub stars in its first 24 hours, signaling serious developer interest in agent-native toolchain design.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-18/2026-05-18-ai-briefing.mp3" length="6556750" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Monday, May 18, 2026</itunes:title>
+      <itunes:summary>Google's annual developer conference kicks off May 19 with the main keynote at 10 a.m. PT, and developer buzz is at a fever pitch. Reports and session leaks strongly point to a Gemini 4 reveal with a potential 10M-token context window, alongside Android XR smart glasses previews with Samsung and Warby Parker, and the debut of Aluminium OS — Google's Android-based ChromeOS replacement. For AI developers, the API and agentic-coding tool announcements will be the ones to watch. Vercel Labs released Zero (v0.1.1, Apache-2.0) on May 15, an experimental systems programming language built from the ground up for agentic coding workflows rather than human developers. Its compiler emits structured JSON diagnostics with stable error codes and typed repair metadata so agents can parse and fix errors without human-readable text interpretation — directly addressing a key failure mode in Claude Code and Copilot loops. The repo hit 900 GitHub stars in its first 24 hours, signaling serious developer interest in agent-native toolchain design.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Sunday, May 17, 2026</title>
       <pubDate>Sun, 17 May 2026 07:42:57 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-17/2026-05-17-ai-briefing.mp3</guid>
