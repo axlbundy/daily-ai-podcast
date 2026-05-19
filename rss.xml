@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                      <item>
+                                                                          <item>
+      <title>AI Briefing — Tuesday, May 19, 2026</title>
+      <pubDate>Tue, 19 May 2026 07:40:52 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-19/2026-05-19-ai-briefing.mp3</guid>
+      <description>Google's annual developer conference kicked off May 19 with a keynote expected to unveil a major Gemini model upgrade—possibly Gemini 4.0—alongside Android XR smart glasses built with Samsung, Warby Parker, and Gentle Monster, and the Googlebooks AI-first laptop platform. The event is being livestreamed on YouTube and runs through May 20, with developer sessions covering Gemini API updates, new Gemma open-source models, Firebase and Android Studio AI tooling, and a deeper look at agentic Android 17 features—making it the most consequential Google developer event in years for AI practitioners. Ahead of the Google I/O 2026 keynote, internal documents accidentally leaked reference to 'Gemini Omni,' described as a unified multimodal framework capable of processing video, images, audio, and text simultaneously across all Google services—from Search and Android to Workspace, smart glasses, and future AI agents. If confirmed on stage today, Gemini Omni would represent Google's tightest cross-product AI integration yet, with direct implications for developers building on the Gemini API and for everyday users across Google's entire ecosystem.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-19/2026-05-19-ai-briefing.mp3" length="6102645" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Tuesday, May 19, 2026</itunes:title>
+      <itunes:summary>Google's annual developer conference kicked off May 19 with a keynote expected to unveil a major Gemini model upgrade—possibly Gemini 4.0—alongside Android XR smart glasses built with Samsung, Warby Parker, and Gentle Monster, and the Googlebooks AI-first laptop platform. The event is being livestreamed on YouTube and runs through May 20, with developer sessions covering Gemini API updates, new Gemma open-source models, Firebase and Android Studio AI tooling, and a deeper look at agentic Android 17 features—making it the most consequential Google developer event in years for AI practitioners. Ahead of the Google I/O 2026 keynote, internal documents accidentally leaked reference to 'Gemini Omni,' described as a unified multimodal framework capable of processing video, images, audio, and text simultaneously across all Google services—from Search and Android to Workspace, smart glasses, and future AI agents. If confirmed on stage today, Gemini Omni would represent Google's tightest cross-product AI integration yet, with direct implications for developers building on the Gemini API and for everyday users across Google's entire ecosystem.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Monday, May 18, 2026</title>
       <pubDate>Mon, 18 May 2026 07:43:00 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-18/2026-05-18-ai-briefing.mp3</guid>
