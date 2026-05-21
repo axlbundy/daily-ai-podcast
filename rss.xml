@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                              <item>
+                                                                                  <item>
+      <title>AI Briefing — Thursday, May 21, 2026</title>
+      <pubDate>Thu, 21 May 2026 07:39:44 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-21/2026-05-21-ai-briefing.mp3</guid>
+      <description>Google DeepMind unveiled Gemini for Science at I/O 2026, a suite of agentic AI tools covering Hypothesis Generation, Computational Discovery, and Literature Insights — backed by same-day peer-reviewed validation in Nature. The ERA tool generated 14 COVID-19 hospitalization models that outperformed the CDC's official CovidHub Ensemble, and a Science Skills layer connecting Gemini agents to 30+ life-science databases is available now on GitHub and inside Antigravity. Researchers can apply for access at labs.google/science — this is the most substantive AI-for-science launch any lab has shipped with real benchmark validation. OpenAI has confirmed to Marketing Brew that regulated financial services brands including Robinhood and BestMoney are now actively running ads inside ChatGPT, marking the first time a highly regulated vertical has entered the ad pilot. The move follows May's self-serve Ads Manager beta launch with CPC bidding and the removal of the $50,000 minimum spend requirement, making the platform meaningfully more accessible. For developers and hobbyists, this signals that ChatGPT's ad-supported free tier is expanding rapidly — and raises fresh questions about the long-term separation of ads from model outputs.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-21/2026-05-21-ai-briefing.mp3" length="6518681" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Thursday, May 21, 2026</itunes:title>
+      <itunes:summary>Google DeepMind unveiled Gemini for Science at I/O 2026, a suite of agentic AI tools covering Hypothesis Generation, Computational Discovery, and Literature Insights — backed by same-day peer-reviewed validation in Nature. The ERA tool generated 14 COVID-19 hospitalization models that outperformed the CDC's official CovidHub Ensemble, and a Science Skills layer connecting Gemini agents to 30+ life-science databases is available now on GitHub and inside Antigravity. Researchers can apply for access at labs.google/science — this is the most substantive AI-for-science launch any lab has shipped with real benchmark validation. OpenAI has confirmed to Marketing Brew that regulated financial services brands including Robinhood and BestMoney are now actively running ads inside ChatGPT, marking the first time a highly regulated vertical has entered the ad pilot. The move follows May's self-serve Ads Manager beta launch with CPC bidding and the removal of the $50,000 minimum spend requirement, making the platform meaningfully more accessible. For developers and hobbyists, this signals that ChatGPT's ad-supported free tier is expanding rapidly — and raises fresh questions about the long-term separation of ads from model outputs.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Wednesday, May 20, 2026</title>
       <pubDate>Wed, 20 May 2026 07:36:14 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-20/2026-05-20-ai-briefing.mp3</guid>
