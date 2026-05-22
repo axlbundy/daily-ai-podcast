@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                  <item>
+                                                                                      <item>
+      <title>AI Briefing — Friday, May 22, 2026</title>
+      <pubDate>Fri, 22 May 2026 07:39:26 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-22/2026-05-22-ai-briefing.mp3</guid>
+      <description>Anthropic told investors it expects Q2 2026 revenue of $10.9 billion — more than double Q1's $4.8 billion — along with a projected $559 million operating profit, its first ever. The primary growth driver is enterprise adoption of Claude Code, with Anthropic now overtaking OpenAI among verified business customers on Ramp's spending data. The milestone sets up a direct public-market rivalry: OpenAI is simultaneously filing a confidential IPO prospectus targeting a September listing, while Anthropic eyes October. OpenAI filed a confidential IPO prospectus with the SEC on May 22, 2026, working with Goldman Sachs, Morgan Stanley, and JPMorgan Chase as lead underwriters, targeting a public listing between Labor Day and Thanksgiving. The company is valued at roughly $850 billion to $1 trillion and says ChatGPT now has over 900 million weekly users and 50 million paid subscribers. The filing clears the last major legal obstacle after a California jury unanimously rejected Elon Musk's lawsuit against OpenAI on May 19.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-22/2026-05-22-ai-briefing.mp3" length="6177898" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Friday, May 22, 2026</itunes:title>
+      <itunes:summary>Anthropic told investors it expects Q2 2026 revenue of $10.9 billion — more than double Q1's $4.8 billion — along with a projected $559 million operating profit, its first ever. The primary growth driver is enterprise adoption of Claude Code, with Anthropic now overtaking OpenAI among verified business customers on Ramp's spending data. The milestone sets up a direct public-market rivalry: OpenAI is simultaneously filing a confidential IPO prospectus targeting a September listing, while Anthropic eyes October. OpenAI filed a confidential IPO prospectus with the SEC on May 22, 2026, working with Goldman Sachs, Morgan Stanley, and JPMorgan Chase as lead underwriters, targeting a public listing between Labor Day and Thanksgiving. The company is valued at roughly $850 billion to $1 trillion and says ChatGPT now has over 900 million weekly users and 50 million paid subscribers. The filing clears the last major legal obstacle after a California jury unanimously rejected Elon Musk's lawsuit against OpenAI on May 19.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Thursday, May 21, 2026</title>
       <pubDate>Thu, 21 May 2026 07:39:44 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-21/2026-05-21-ai-briefing.mp3</guid>
