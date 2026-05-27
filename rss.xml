@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                              <item>
+                                                                                                  <item>
+      <title>AI Briefing — Wednesday, May 27, 2026</title>
+      <pubDate>Wed, 27 May 2026 07:39:46 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-27/2026-05-27-ai-briefing.mp3</guid>
+      <description>Mistral released Devstral 2, a 123B-parameter open-weight coding model hitting 72.2% on SWE-bench Verified and up to 7x more cost-efficient than Claude Sonnet on real-world tasks. Alongside it, Mistral shipped Vibe CLI, an open-source terminal agent (Apache 2.0) that lets developers describe changes in plain language and have the model execute multi-file edits autonomously. Devstral 2 is currently free via the Mistral API, available on HuggingFace and via Ollama/vLLM for local deployment, and the smaller Devstral Small 2 (24B) runs on a single RTX 4090 — making this the most capable self-hostable coding agent available to homelab and solo developers today. Mistral quietly released Mistral Medium 3.5 (mistral-medium-3-5) on their API and as open weights under a modified MIT license, targeting frontier-class performance on agentic and coding tasks with adjustable reasoning via a reasoning_effort parameter. The model adds to a rapidly expanding Mistral lineup that now spans reasoning, multimodal vision, TTS, and dedicated coding agents — all accessible from a single API endpoint. Developers can start using it today through the Mistral API or self-host via vLLM, making it a strong option for teams wanting a capable, sovereign model without a closed-API lock-in.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-27/2026-05-27-ai-briefing.mp3" length="6118596" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Wednesday, May 27, 2026</itunes:title>
+      <itunes:summary>Mistral released Devstral 2, a 123B-parameter open-weight coding model hitting 72.2% on SWE-bench Verified and up to 7x more cost-efficient than Claude Sonnet on real-world tasks. Alongside it, Mistral shipped Vibe CLI, an open-source terminal agent (Apache 2.0) that lets developers describe changes in plain language and have the model execute multi-file edits autonomously. Devstral 2 is currently free via the Mistral API, available on HuggingFace and via Ollama/vLLM for local deployment, and the smaller Devstral Small 2 (24B) runs on a single RTX 4090 — making this the most capable self-hostable coding agent available to homelab and solo developers today. Mistral quietly released Mistral Medium 3.5 (mistral-medium-3-5) on their API and as open weights under a modified MIT license, targeting frontier-class performance on agentic and coding tasks with adjustable reasoning via a reasoning_effort parameter. The model adds to a rapidly expanding Mistral lineup that now spans reasoning, multimodal vision, TTS, and dedicated coding agents — all accessible from a single API endpoint. Developers can start using it today through the Mistral API or self-host via vLLM, making it a strong option for teams wanting a capable, sovereign model without a closed-API lock-in.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Tuesday, May 26, 2026</title>
       <pubDate>Tue, 26 May 2026 19:05:20 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-26/2026-05-26-ai-briefing.mp3</guid>
