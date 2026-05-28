@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                  <item>
+                                                                                                      <item>
+      <title>AI Briefing — Thursday, May 28, 2026</title>
+      <pubDate>Thu, 28 May 2026 07:41:06 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-28/2026-05-28-ai-briefing.mp3</guid>
+      <description>Tencent's Hy3 preview — a 295B-parameter MoE model with 21B active parameters, 256K context, and configurable fast/slow reasoning — is now live on OpenRouter under a free two-week limited-access window, making it immediately testable without a Tencent Cloud account. The model scores 74.4% on SWE-bench Verified and already powers Tencent's CodeBuddy and WorkBuddy products at 99.99% success rate and up to 495-step agent workflows. For developers, this is a rare chance to benchmark a serious open-weight-adjacent 295B reasoning model against Devstral 2 and Mistral Medium 3.5 at zero cost via a standard OpenAI-compatible endpoint. The Home Assistant 2026.6 Beta launched on May 27, 2026, introducing a new OVHcloud AI Endpoints integration that lets users pick from a curated catalog of open-weight LLMs hosted in Europe as a conversation agent for Assist — a privacy-friendly alternative to OpenAI or Gemini for EU households. The same beta also extends the Infrared platform with bidirectional receiver event entities, so ESPHome devices with IR receivers can now listen to original remotes and trigger HA automations, completing the two-way IR story. Developers and beta testers can install the 2026.6 beta today via Settings &gt; System &gt; Updates in Home Assistant.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-28/2026-05-28-ai-briefing.mp3" length="6806367" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Thursday, May 28, 2026</itunes:title>
+      <itunes:summary>Tencent's Hy3 preview — a 295B-parameter MoE model with 21B active parameters, 256K context, and configurable fast/slow reasoning — is now live on OpenRouter under a free two-week limited-access window, making it immediately testable without a Tencent Cloud account. The model scores 74.4% on SWE-bench Verified and already powers Tencent's CodeBuddy and WorkBuddy products at 99.99% success rate and up to 495-step agent workflows. For developers, this is a rare chance to benchmark a serious open-weight-adjacent 295B reasoning model against Devstral 2 and Mistral Medium 3.5 at zero cost via a standard OpenAI-compatible endpoint. The Home Assistant 2026.6 Beta launched on May 27, 2026, introducing a new OVHcloud AI Endpoints integration that lets users pick from a curated catalog of open-weight LLMs hosted in Europe as a conversation agent for Assist — a privacy-friendly alternative to OpenAI or Gemini for EU households. The same beta also extends the Infrared platform with bidirectional receiver event entities, so ESPHome devices with IR receivers can now listen to original remotes and trigger HA automations, completing the two-way IR story. Developers and beta testers can install the 2026.6 beta today via Settings &gt; System &gt; Updates in Home Assistant.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Wednesday, May 27, 2026</title>
       <pubDate>Wed, 27 May 2026 07:39:46 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-27/2026-05-27-ai-briefing.mp3</guid>
