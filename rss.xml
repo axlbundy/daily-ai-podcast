@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                      <item>
+                                                                                                          <item>
+      <title>AI Briefing — Friday, May 29, 2026</title>
+      <pubDate>Fri, 29 May 2026 07:40:04 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-29/2026-05-29-ai-briefing.mp3</guid>
+      <description>OpenAI pushed Codex CLI release v0.136.0-alpha.1 to GitHub on May 29, 2026, continuing the project's near-weekly shipping cadence. The alpha follows v0.135.0 (May 28), which added richer `codex doctor` diagnostics, improved Vim mode text-object editing, and named permission profiles in `/permissions`. Developers on any ChatGPT paid plan can install or upgrade today via the standalone installer, making it one of the most actively iterated open-source coding agents available right now. OpenAI's ChatGPT release notes (updated today) confirm GPT-5.4 mini is now rolling out to Free and Go users via the 'Thinking' feature in the + menu, while paid users get it as a rate-limit fallback for GPT-5.4 Thinking. GPT-5.4 mini runs more than 2x faster than its predecessor, approaches GPT-5.4-level pass rates on SWE-Bench Pro and OSWorld-Verified, and costs $0.75/$4.50 per million tokens in the API with a 400k context window. This is the first time frontier-adjacent reasoning capability has reached ChatGPT's free tier, making it immediately testable without a subscription.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-29/2026-05-29-ai-briefing.mp3" length="6344272" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Friday, May 29, 2026</itunes:title>
+      <itunes:summary>OpenAI pushed Codex CLI release v0.136.0-alpha.1 to GitHub on May 29, 2026, continuing the project's near-weekly shipping cadence. The alpha follows v0.135.0 (May 28), which added richer `codex doctor` diagnostics, improved Vim mode text-object editing, and named permission profiles in `/permissions`. Developers on any ChatGPT paid plan can install or upgrade today via the standalone installer, making it one of the most actively iterated open-source coding agents available right now. OpenAI's ChatGPT release notes (updated today) confirm GPT-5.4 mini is now rolling out to Free and Go users via the 'Thinking' feature in the + menu, while paid users get it as a rate-limit fallback for GPT-5.4 Thinking. GPT-5.4 mini runs more than 2x faster than its predecessor, approaches GPT-5.4-level pass rates on SWE-Bench Pro and OSWorld-Verified, and costs $0.75/$4.50 per million tokens in the API with a 400k context window. This is the first time frontier-adjacent reasoning capability has reached ChatGPT's free tier, making it immediately testable without a subscription.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Thursday, May 28, 2026</title>
       <pubDate>Thu, 28 May 2026 07:41:06 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-05-28/2026-05-28-ai-briefing.mp3</guid>
