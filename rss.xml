@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                      <item>
+                                                                                                                          <item>
+      <title>AI Briefing — Tuesday, June 2, 2026</title>
+      <pubDate>Tue, 02 Jun 2026 07:39:57 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-02/2026-06-02-ai-briefing.mp3</guid>
+      <description>... ...</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-02/2026-06-02-ai-briefing.mp3" length="6056991" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Tuesday, June 2, 2026</itunes:title>
+      <itunes:summary>... ...</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Monday, June 1, 2026</title>
       <pubDate>Mon, 01 Jun 2026 07:40:11 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-01/2026-06-01-ai-briefing.mp3</guid>
