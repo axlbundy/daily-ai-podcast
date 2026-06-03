@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                          <item>
+                                                                                                                              <item>
+      <title>AI Briefing — Wednesday, June 3, 2026</title>
+      <pubDate>Wed, 03 Jun 2026 09:57:14 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-03/2026-06-03-ai-briefing.mp3</guid>
+      <description>Microsoft's first in-house coding model, MAI-Code-1-Flash (5B parameters), is rolling out today to Copilot Free, Pro, Pro+, and Max users in VS Code — outperforming Claude Haiku 4.5 by 16 points on SWE-Bench Pro while using 60% fewer tokens. Alongside it, MAI-Thinking-1 (35B MoE, 256K context) enters private preview on Microsoft Foundry, scoring 97% on AIME 2025 and matching Claude Opus 4.6 on SWE-Bench Pro. Both models are part of a 7-model MAI family announced at Build 2026, with MAI-Image-2.5, MAI-Voice-2, and MAI-Transcribe-1.5 also available via Foundry, Fireworks AI, and OpenRouter today. VoxCPM2 (OpenBMB/VoxCPM, Apache 2.0) is hitting the top of GitHub trending today — a 2B-parameter tokenizer-free TTS model trained on over 2 million hours of multilingual speech data, supporting 30 languages, voice design from text descriptions alone, and controllable voice cloning at native 48kHz audio output. It runs in real time at RTF ~0.13 on an RTX 4090 via Nano-vLLM, supports SFT and LoRA fine-tuning from as little as 5–10 minutes of audio, and ships a Python API, CLI, and web demo. It's a compelling self-hostable alternative to ElevenLabs for homelab TTS pipelines and is installable today via `pip install voxcpm`.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-03/2026-06-03-ai-briefing.mp3" length="6723777" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Wednesday, June 3, 2026</itunes:title>
+      <itunes:summary>Microsoft's first in-house coding model, MAI-Code-1-Flash (5B parameters), is rolling out today to Copilot Free, Pro, Pro+, and Max users in VS Code — outperforming Claude Haiku 4.5 by 16 points on SWE-Bench Pro while using 60% fewer tokens. Alongside it, MAI-Thinking-1 (35B MoE, 256K context) enters private preview on Microsoft Foundry, scoring 97% on AIME 2025 and matching Claude Opus 4.6 on SWE-Bench Pro. Both models are part of a 7-model MAI family announced at Build 2026, with MAI-Image-2.5, MAI-Voice-2, and MAI-Transcribe-1.5 also available via Foundry, Fireworks AI, and OpenRouter today. VoxCPM2 (OpenBMB/VoxCPM, Apache 2.0) is hitting the top of GitHub trending today — a 2B-parameter tokenizer-free TTS model trained on over 2 million hours of multilingual speech data, supporting 30 languages, voice design from text descriptions alone, and controllable voice cloning at native 48kHz audio output. It runs in real time at RTF ~0.13 on an RTX 4090 via Nano-vLLM, supports SFT and LoRA fine-tuning from as little as 5–10 minutes of audio, and ships a Python API, CLI, and web demo. It's a compelling self-hostable alternative to ElevenLabs for homelab TTS pipelines and is installable today via `pip install voxcpm`.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Tuesday, June 2, 2026</title>
       <pubDate>Tue, 02 Jun 2026 07:39:57 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-02/2026-06-02-ai-briefing.mp3</guid>
