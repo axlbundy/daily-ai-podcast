@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                              <item>
+                                                                                                                                  <item>
+      <title>AI Briefing — Thursday, June 4, 2026</title>
+      <pubDate>Thu, 04 Jun 2026 07:40:04 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-04/2026-06-04-ai-briefing.mp3</guid>
+      <description>Alibaba's Qwen3.7-Plus — the vision-capable sibling of Qwen3.7-Max — went live on OpenRouter on June 3, 2026 at $0.40/$1.60 per million tokens, roughly 6× cheaper than Qwen3.7-Max while adding image and video input. The model scores 79.0 on ScreenSpot Pro (GUI grounding) and 70.3 on Terminal-Bench, putting it in direct competition with Claude Computer Use and OpenAI Operator for screenshot-driven browser and desktop automation workflows. Developers can test it today via any OpenAI-compatible client pointed at openrouter.ai/qwen/qwen3.7-plus. OpenAI's Codex changelog (updated today) confirms Goal Mode has graduated from beta to general availability across the Codex app, IDE extension, and CLI, letting developers define a durable outcome and let Codex work toward it autonomously for hours or even days. The same update ships Appshots on macOS — pressing both Command keys sends any frontmost app window's screenshot and extracted text directly into a Codex thread as live context — and adds Amazon Bedrock as a model provider so enterprise teams can run Codex locally with AWS-managed billing and compliance controls. All features are available to use today.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-04/2026-06-04-ai-briefing.mp3" length="6220719" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Thursday, June 4, 2026</itunes:title>
+      <itunes:summary>Alibaba's Qwen3.7-Plus — the vision-capable sibling of Qwen3.7-Max — went live on OpenRouter on June 3, 2026 at $0.40/$1.60 per million tokens, roughly 6× cheaper than Qwen3.7-Max while adding image and video input. The model scores 79.0 on ScreenSpot Pro (GUI grounding) and 70.3 on Terminal-Bench, putting it in direct competition with Claude Computer Use and OpenAI Operator for screenshot-driven browser and desktop automation workflows. Developers can test it today via any OpenAI-compatible client pointed at openrouter.ai/qwen/qwen3.7-plus. OpenAI's Codex changelog (updated today) confirms Goal Mode has graduated from beta to general availability across the Codex app, IDE extension, and CLI, letting developers define a durable outcome and let Codex work toward it autonomously for hours or even days. The same update ships Appshots on macOS — pressing both Command keys sends any frontmost app window's screenshot and extracted text directly into a Codex thread as live context — and adds Amazon Bedrock as a model provider so enterprise teams can run Codex locally with AWS-managed billing and compliance controls. All features are available to use today.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Wednesday, June 3, 2026</title>
       <pubDate>Wed, 03 Jun 2026 09:57:14 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-03/2026-06-03-ai-briefing.mp3</guid>
