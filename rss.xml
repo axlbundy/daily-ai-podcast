@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                          <item>
+                                                                                                                                              <item>
+      <title>AI Briefing — Sunday, June 7, 2026</title>
+      <pubDate>Sun, 07 Jun 2026 07:39:08 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-07/2026-06-07-ai-briefing.mp3</guid>
+      <description>Google released Gemma 4 12B, an 11.95B-parameter Apache 2.0 model capable of audio, video, and image analysis that runs locally on a standard 16GB laptop or enterprise machine. It supports complex multistep reasoning and agentic workflows previously requiring larger Gemma variants, and ships with Multi-Token Prediction drafters for faster inference. Homelab builders can run it today via Google AI Edge Gallery on macOS or download weights directly — no cloud dependency required. Google AI Edge Gallery is now available on macOS, offering a native app to run five Gemma models locally — including the newly released Gemma 4 12B — without Ollama or LM Studio. The app targets users who want offline or air-gapped AI inference directly on Mac hardware with unified memory. It is available to download and use today, making it the most friction-free path to local Gemma inference on Apple silicon.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-07/2026-06-07-ai-briefing.mp3" length="5960114" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Sunday, June 7, 2026</itunes:title>
+      <itunes:summary>Google released Gemma 4 12B, an 11.95B-parameter Apache 2.0 model capable of audio, video, and image analysis that runs locally on a standard 16GB laptop or enterprise machine. It supports complex multistep reasoning and agentic workflows previously requiring larger Gemma variants, and ships with Multi-Token Prediction drafters for faster inference. Homelab builders can run it today via Google AI Edge Gallery on macOS or download weights directly — no cloud dependency required. Google AI Edge Gallery is now available on macOS, offering a native app to run five Gemma models locally — including the newly released Gemma 4 12B — without Ollama or LM Studio. The app targets users who want offline or air-gapped AI inference directly on Mac hardware with unified memory. It is available to download and use today, making it the most friction-free path to local Gemma inference on Apple silicon.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Saturday, June 6, 2026</title>
       <pubDate>Sat, 06 Jun 2026 07:40:06 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-06/2026-06-06-ai-briefing.mp3</guid>
