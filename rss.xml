@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                  <item>
+                                                                                                                                                      <item>
+      <title>AI Briefing — Tuesday, June 9, 2026</title>
+      <pubDate>Tue, 09 Jun 2026 07:39:01 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-09/2026-06-09-ai-briefing.mp3</guid>
+      <description>Apple unveiled Siri 2.0 at WWDC 2026 with Gemini-powered AI, improved contextual understanding, and a new Foundation Models framework giving developers a unified Swift API for on-device and server models with image input and custom skills. Xcode 27 ships agentic coding features, and Apple's Home app gains AI video descriptions for security cameras. Homelab builders in the Apple ecosystem can start testing via developer betas available now. Researchers at the University of Toronto published a working proof-of-concept AI worm that runs entirely on local open-weight models, adapts its hacking strategy as it spreads across a computing network, and requires no cloud dependency. The lead researcher emphasized that security risks are not limited to the largest frontier models, making this directly relevant to homelab builders running local LLMs. The paper and technical details are available today via The Hacker News writeup.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-09/2026-06-09-ai-briefing.mp3" length="5865884" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Tuesday, June 9, 2026</itunes:title>
+      <itunes:summary>Apple unveiled Siri 2.0 at WWDC 2026 with Gemini-powered AI, improved contextual understanding, and a new Foundation Models framework giving developers a unified Swift API for on-device and server models with image input and custom skills. Xcode 27 ships agentic coding features, and Apple's Home app gains AI video descriptions for security cameras. Homelab builders in the Apple ecosystem can start testing via developer betas available now. Researchers at the University of Toronto published a working proof-of-concept AI worm that runs entirely on local open-weight models, adapts its hacking strategy as it spreads across a computing network, and requires no cloud dependency. The lead researcher emphasized that security risks are not limited to the largest frontier models, making this directly relevant to homelab builders running local LLMs. The paper and technical details are available today via The Hacker News writeup.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Monday, June 8, 2026</title>
       <pubDate>Mon, 08 Jun 2026 07:39:07 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-08/2026-06-08-ai-briefing.mp3</guid>
