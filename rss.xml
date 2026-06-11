@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                      <item>
+                                                                                                                                                          <item>
+      <title>AI Briefing — Wednesday, June 10, 2026</title>
+      <pubDate>Wed, 10 Jun 2026 22:21:32 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-10/2026-06-10-ai-briefing.mp3</guid>
+      <description>Anthropic launched Claude Fable 5 today — its first Mythos-class model available to the general public — with safety guardrails that block infrastructure hacking and sensitive bio queries while still delivering frontier-level performance on software engineering and knowledge work. Developers can access Fable 5 now via the Claude API at $10 per million input tokens and $50 per million output tokens, with usage-credit billing for consumer subscribers. A separate Claude Mythos 5 is also launching for existing Mythos Preview partners and select U.S. government cyberdefense deployments. A detailed comparison published this week on MindStudio breaks down how n8n's 2026 AI Agent builder — featuring built-in memory, multi-agent coordination, RAG, MCP server and client nodes, and human-in-the-loop approvals — now directly rivals Claude Code for agentic workflow use cases. The platform supports any LLM including local Ollama endpoints and is fully self-hostable, making it a compelling visual alternative for homelab automation builders. All features are available to use today via n8n's open-source core.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-10/2026-06-10-ai-briefing.mp3" length="5902424" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Wednesday, June 10, 2026</itunes:title>
+      <itunes:summary>Anthropic launched Claude Fable 5 today — its first Mythos-class model available to the general public — with safety guardrails that block infrastructure hacking and sensitive bio queries while still delivering frontier-level performance on software engineering and knowledge work. Developers can access Fable 5 now via the Claude API at $10 per million input tokens and $50 per million output tokens, with usage-credit billing for consumer subscribers. A separate Claude Mythos 5 is also launching for existing Mythos Preview partners and select U.S. government cyberdefense deployments. A detailed comparison published this week on MindStudio breaks down how n8n's 2026 AI Agent builder — featuring built-in memory, multi-agent coordination, RAG, MCP server and client nodes, and human-in-the-loop approvals — now directly rivals Claude Code for agentic workflow use cases. The platform supports any LLM including local Ollama endpoints and is fully self-hostable, making it a compelling visual alternative for homelab automation builders. All features are available to use today via n8n's open-source core.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Tuesday, June 9, 2026</title>
       <pubDate>Tue, 09 Jun 2026 07:39:01 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-09/2026-06-09-ai-briefing.mp3</guid>
