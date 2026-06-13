@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                  <item>
+                                                                                                                                                                      <item>
+      <title>AI Briefing — Saturday, June 13, 2026</title>
+      <pubDate>Sat, 13 Jun 2026 07:38:41 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-13/2026-06-13-ai-briefing.mp3</guid>
+      <description>Anthropic released Claude Fable 5 on June 9, 2026 — its first Mythos-class model available to general users — with safeguards blocking infrastructure hacking and sensitive bio queries while delivering frontier-level performance on software engineering and scientific research. Developers can access it now via the Claude API at $10 per million input tokens and $50 per million output tokens, with usage-credit billing for consumer subscribers. A separate Claude Mythos 5 is also launching for existing Mythos Preview partners and select U.S. government cyberdefense deployments. Apple expanded its Foundation Models framework at WWDC 2026 with a unified native Swift API supporting image input, server model integration, and custom skill building — alongside agentic coding features in Xcode 27. Developer betas are available now for anyone building AI-powered apps in the Apple ecosystem, with Google Gemini serving as the cloud AI backbone while Private Cloud Compute continues on Apple silicon for privacy-preserving inference. A detailed 9to5Mac explainer breaks down the on-device versus cloud model split and how Private Cloud Compute privacy guarantees work.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-13/2026-06-13-ai-briefing.mp3" length="5868193" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Saturday, June 13, 2026</itunes:title>
+      <itunes:summary>Anthropic released Claude Fable 5 on June 9, 2026 — its first Mythos-class model available to general users — with safeguards blocking infrastructure hacking and sensitive bio queries while delivering frontier-level performance on software engineering and scientific research. Developers can access it now via the Claude API at $10 per million input tokens and $50 per million output tokens, with usage-credit billing for consumer subscribers. A separate Claude Mythos 5 is also launching for existing Mythos Preview partners and select U.S. government cyberdefense deployments. Apple expanded its Foundation Models framework at WWDC 2026 with a unified native Swift API supporting image input, server model integration, and custom skill building — alongside agentic coding features in Xcode 27. Developer betas are available now for anyone building AI-powered apps in the Apple ecosystem, with Google Gemini serving as the cloud AI backbone while Private Cloud Compute continues on Apple silicon for privacy-preserving inference. A detailed 9to5Mac explainer breaks down the on-device versus cloud model split and how Private Cloud Compute privacy guarantees work.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Friday, June 12, 2026</title>
       <pubDate>Fri, 12 Jun 2026 07:38:11 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-12/2026-06-12-ai-briefing.mp3</guid>
