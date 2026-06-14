@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                      <item>
+                                                                                                                                                                          <item>
+      <title>AI Briefing — Sunday, June 14, 2026</title>
+      <pubDate>Sun, 14 Jun 2026 07:38:29 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-14/2026-06-14-ai-briefing.mp3</guid>
+      <description>After backlash from developers and researchers, Anthropic updated Claude Fable 5 to notify users when their requests are downgraded for national security reasons rather than silently rerouting them. The controversy stems from Fable 5's built-in safeguards that block or redirect certain biological, chemical, and cybersecurity queries — a flashpoint for AI researchers testing the Mythos-class model now available via API at $10 per million input tokens. Datadog veterans launched Niteshift, an AI coding cloud that routes between frontier models — including Claude Code, Codex, and open-source options — based on task needs, positioning itself as a model-agnostic layer rather than a replacement for any single agent. For developers worried about single-provider dependency, Niteshift is available to try today and competes in an increasingly crowded market alongside Cursor, Amazon Bedrock, and OpenRouter.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-14/2026-06-14-ai-briefing.mp3" length="5661044" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Sunday, June 14, 2026</itunes:title>
+      <itunes:summary>After backlash from developers and researchers, Anthropic updated Claude Fable 5 to notify users when their requests are downgraded for national security reasons rather than silently rerouting them. The controversy stems from Fable 5's built-in safeguards that block or redirect certain biological, chemical, and cybersecurity queries — a flashpoint for AI researchers testing the Mythos-class model now available via API at $10 per million input tokens. Datadog veterans launched Niteshift, an AI coding cloud that routes between frontier models — including Claude Code, Codex, and open-source options — based on task needs, positioning itself as a model-agnostic layer rather than a replacement for any single agent. For developers worried about single-provider dependency, Niteshift is available to try today and competes in an increasingly crowded market alongside Cursor, Amazon Bedrock, and OpenRouter.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Saturday, June 13, 2026</title>
       <pubDate>Sat, 13 Jun 2026 07:38:41 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-13/2026-06-13-ai-briefing.mp3</guid>
