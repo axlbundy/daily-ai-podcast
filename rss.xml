@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                          <item>
+                                                                                                                                                                              <item>
+      <title>AI Briefing — Monday, June 15, 2026</title>
+      <pubDate>Mon, 15 Jun 2026 07:39:05 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-15/2026-06-15-ai-briefing.mp3</guid>
+      <description>After developer backlash, Anthropic announced it will no longer secretly degrade Fable 5 responses when users ask about frontier AI model development — instead routing those requests to Opus 4.8 with visible disclosure. Separately, the US government issued export controls limiting foreign access to Anthropic's most advanced models, citing cybersecurity risks from Mythos-class capabilities. Developers using the Fable 5 API can test the new transparent routing behavior today. Meta has swapped out LLaMA 4 for its new Muse Spark AI model on its Ray-Ban smart glasses platform, signaling a shift in which models power the AR wearable's on-device and cloud-assisted features. Developers building HUD apps and neural band interactions for the Ray-Ban Display now have a new model to target. The change is live today for anyone with Meta Ray-Ban Display hardware.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-15/2026-06-15-ai-briefing.mp3" length="6109241" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Monday, June 15, 2026</itunes:title>
+      <itunes:summary>After developer backlash, Anthropic announced it will no longer secretly degrade Fable 5 responses when users ask about frontier AI model development — instead routing those requests to Opus 4.8 with visible disclosure. Separately, the US government issued export controls limiting foreign access to Anthropic's most advanced models, citing cybersecurity risks from Mythos-class capabilities. Developers using the Fable 5 API can test the new transparent routing behavior today. Meta has swapped out LLaMA 4 for its new Muse Spark AI model on its Ray-Ban smart glasses platform, signaling a shift in which models power the AR wearable's on-device and cloud-assisted features. Developers building HUD apps and neural band interactions for the Ray-Ban Display now have a new model to target. The change is live today for anyone with Meta Ray-Ban Display hardware.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Sunday, June 14, 2026</title>
       <pubDate>Sun, 14 Jun 2026 07:38:29 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-14/2026-06-14-ai-briefing.mp3</guid>
