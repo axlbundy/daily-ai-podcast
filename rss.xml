@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                              <item>
+                                                                                                                                                                                  <item>
+      <title>AI Briefing — Tuesday, June 16, 2026</title>
+      <pubDate>Tue, 16 Jun 2026 07:38:28 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-16/2026-06-16-ai-briefing.mp3</guid>
+      <description>The US government issued export controls blocking foreign access to Anthropic's most advanced Mythos-class models, citing risks of accelerating sophisticated cyberattacks — particularly in banking and interconnected legacy systems. Anthropic has now disabled access to its most powerful models for affected regions, a direct consequence of how the company marketed Fable 5 as a 'Mythos-class' capability. Developers with active Fable 5 API integrations should check their access status immediately, as the transparent Opus 4.8 routing fallback announced after last week's backlash may now be the primary available tier. Chainguard, JPMorgan, and BNY teamed up to launch Athena, an operational AI model acting as a cybersecurity clearinghouse that has already processed over 20,000 findings and shipped more than 2,000 patches across 500 open-source projects. The initiative is live today and positions itself as the kind of AI security infrastructure the US government has been asked to build following the Trump Administration's June 2 executive order. Homelab builders and developers running open-source stacks can follow its first wave of public disclosures expected in July.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-16/2026-06-16-ai-briefing.mp3" length="5662086" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Tuesday, June 16, 2026</itunes:title>
+      <itunes:summary>The US government issued export controls blocking foreign access to Anthropic's most advanced Mythos-class models, citing risks of accelerating sophisticated cyberattacks — particularly in banking and interconnected legacy systems. Anthropic has now disabled access to its most powerful models for affected regions, a direct consequence of how the company marketed Fable 5 as a 'Mythos-class' capability. Developers with active Fable 5 API integrations should check their access status immediately, as the transparent Opus 4.8 routing fallback announced after last week's backlash may now be the primary available tier. Chainguard, JPMorgan, and BNY teamed up to launch Athena, an operational AI model acting as a cybersecurity clearinghouse that has already processed over 20,000 findings and shipped more than 2,000 patches across 500 open-source projects. The initiative is live today and positions itself as the kind of AI security infrastructure the US government has been asked to build following the Trump Administration's June 2 executive order. Homelab builders and developers running open-source stacks can follow its first wave of public disclosures expected in July.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Monday, June 15, 2026</title>
       <pubDate>Mon, 15 Jun 2026 07:39:05 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-15/2026-06-15-ai-briefing.mp3</guid>
