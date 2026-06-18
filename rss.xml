@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                      <item>
+                                                                                                                                                                                          <item>
+      <title>AI Briefing — Thursday, June 18, 2026</title>
+      <pubDate>Thu, 18 Jun 2026 07:38:08 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-18/2026-06-18-ai-briefing.mp3</guid>
+      <description>Chinese AI lab Z.ai released GLM-5.2 on June 16, an open-weights model under a fully permissive MIT license scoring 81.0 on Terminal-Bench 2.1 — a dramatic jump from GLM-5.1's score of 62. The model can be downloaded, modified, and run commercially with no restrictions, making it immediately usable for homelab builders seeking frontier-grade open-weight inference. Following US government restrictions pulling access to Anthropic's Fable 5 and Mythos 5, Business Insider and CNBC report Mistral and DeepSeek are clear beneficiaries as governments and enterprises prioritize sovereign, self-hostable AI. France announced its domestic intelligence agency would replace Palantir tools with a French provider, and MiniMax and Zhipu both surged as the spotlight shifted to downloadable open-weight models. Developers with active Fable 5 API integrations should verify access status immediately.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-18/2026-06-18-ai-briefing.mp3" length="5319112" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Thursday, June 18, 2026</itunes:title>
+      <itunes:summary>Chinese AI lab Z.ai released GLM-5.2 on June 16, an open-weights model under a fully permissive MIT license scoring 81.0 on Terminal-Bench 2.1 — a dramatic jump from GLM-5.1's score of 62. The model can be downloaded, modified, and run commercially with no restrictions, making it immediately usable for homelab builders seeking frontier-grade open-weight inference. Following US government restrictions pulling access to Anthropic's Fable 5 and Mythos 5, Business Insider and CNBC report Mistral and DeepSeek are clear beneficiaries as governments and enterprises prioritize sovereign, self-hostable AI. France announced its domestic intelligence agency would replace Palantir tools with a French provider, and MiniMax and Zhipu both surged as the spotlight shifted to downloadable open-weight models. Developers with active Fable 5 API integrations should verify access status immediately.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Wednesday, June 17, 2026</title>
       <pubDate>Wed, 17 Jun 2026 07:38:41 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-17/2026-06-17-ai-briefing.mp3</guid>
