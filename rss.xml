@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                          <item>
+                                                                                                                                                                                              <item>
+      <title>AI Briefing — Friday, June 19, 2026</title>
+      <pubDate>Fri, 19 Jun 2026 07:39:11 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-19/2026-06-19-ai-briefing.mp3</guid>
+      <description>Apple held a 90-minute developer session demonstrating how apps integrate with the new Siri AI, the Apple Foundation Models framework, and the upgraded MLX framework. The session culminated in a live demo of the 1-trillion-parameter Kimi 2.6 model running locally across four Mac Studios via RDMA-over-Thunderbolt, a capability available to developers today on macOS Tahoe 26.2. Homelab builders interested in on-device frontier inference will want to watch the session for practical integration details. Z.ai's GLM-5.2, released June 16, jumped from 62 to 81.0 on Terminal-Bench 2.1 in a matter of weeks — one of the sharpest benchmark leaps seen in recent open-weight releases. The fully permissive MIT license means anyone can download, modify, and run it commercially with no restrictions, making it immediately useful for homelab inference setups. Forbes flagged it as evidence that open-weight models are closing the gap with datacenter-dependent frontier labs.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-19/2026-06-19-ai-briefing.mp3" length="6129787" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Friday, June 19, 2026</itunes:title>
+      <itunes:summary>Apple held a 90-minute developer session demonstrating how apps integrate with the new Siri AI, the Apple Foundation Models framework, and the upgraded MLX framework. The session culminated in a live demo of the 1-trillion-parameter Kimi 2.6 model running locally across four Mac Studios via RDMA-over-Thunderbolt, a capability available to developers today on macOS Tahoe 26.2. Homelab builders interested in on-device frontier inference will want to watch the session for practical integration details. Z.ai's GLM-5.2, released June 16, jumped from 62 to 81.0 on Terminal-Bench 2.1 in a matter of weeks — one of the sharpest benchmark leaps seen in recent open-weight releases. The fully permissive MIT license means anyone can download, modify, and run it commercially with no restrictions, making it immediately useful for homelab inference setups. Forbes flagged it as evidence that open-weight models are closing the gap with datacenter-dependent frontier labs.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Thursday, June 18, 2026</title>
       <pubDate>Thu, 18 Jun 2026 07:38:08 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-18/2026-06-18-ai-briefing.mp3</guid>
