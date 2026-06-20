@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                              <item>
+                                                                                                                                                                                                  <item>
+      <title>AI Briefing — Saturday, June 20, 2026</title>
+      <pubDate>Sat, 20 Jun 2026 07:38:51 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-20/2026-06-20-ai-briefing.mp3</guid>
+      <description>At least 15 malicious AI coding assistant plugins on the JetBrains Marketplace have accumulated nearly 70,000 installs while silently exfiltrating OpenAI, DeepSeek, and similar API keys in plaintext to attacker-controlled servers. The plugins function as advertised to avoid detection and appear to resell stolen access to paying users. Any developer who has installed AI coding assistant plugins from unknown vendors in the JetBrains ecosystem should rotate their API keys immediately. Amazon SVP Peter DeSantis told CNBC that Amazon's own foundational AI models are on track to compete directly with frontier offerings from Anthropic and OpenAI within the next year, framing it as a core part of Amazon's AI strategy. This signals Amazon is moving beyond reselling third-party models on Bedrock toward building competitive first-party frontier capabilities. Developers currently relying on Bedrock's Anthropic integrations should watch this shift as it may affect pricing and model availability.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-20/2026-06-20-ai-briefing.mp3" length="5837178" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Saturday, June 20, 2026</itunes:title>
+      <itunes:summary>At least 15 malicious AI coding assistant plugins on the JetBrains Marketplace have accumulated nearly 70,000 installs while silently exfiltrating OpenAI, DeepSeek, and similar API keys in plaintext to attacker-controlled servers. The plugins function as advertised to avoid detection and appear to resell stolen access to paying users. Any developer who has installed AI coding assistant plugins from unknown vendors in the JetBrains ecosystem should rotate their API keys immediately. Amazon SVP Peter DeSantis told CNBC that Amazon's own foundational AI models are on track to compete directly with frontier offerings from Anthropic and OpenAI within the next year, framing it as a core part of Amazon's AI strategy. This signals Amazon is moving beyond reselling third-party models on Bedrock toward building competitive first-party frontier capabilities. Developers currently relying on Bedrock's Anthropic integrations should watch this shift as it may affect pricing and model availability.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Friday, June 19, 2026</title>
       <pubDate>Fri, 19 Jun 2026 07:39:11 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-19/2026-06-19-ai-briefing.mp3</guid>
