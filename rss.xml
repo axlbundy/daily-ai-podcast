@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                      <item>
+      <title>AI Briefing — Sunday, June 21, 2026</title>
+      <pubDate>Sun, 21 Jun 2026 07:38:35 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-21/2026-06-21-ai-briefing.mp3</guid>
+      <description>A new free, privacy-focused Android app called LiberaGPT allows a 70-billion parameter AI model to run entirely offline on high-end Android devices, setting a new record for on-device inference without cloud dependencies. The app also includes agentic browsing and a prompt save-and-recall feature, with photorealistic image generation already live on iPhone and coming to Android next month. Homelab enthusiasts interested in fully local, private AI inference on mobile hardware can try it today. TechCrunch reports SpaceX has agreed to acquire AI coding assistant Cursor for $60 billion in stock, just days after Cursor's own blockbuster IPO — one of the most striking consolidation moves in the AI developer tools space. For developers currently relying on Cursor as a model-agnostic coding assistant, this acquisition signals a significant ownership and strategic shift. The deal is live news today and raises immediate questions about Cursor's roadmap and independence.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-21/2026-06-21-ai-briefing.mp3" length="5778153" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Sunday, June 21, 2026</itunes:title>
+      <itunes:summary>A new free, privacy-focused Android app called LiberaGPT allows a 70-billion parameter AI model to run entirely offline on high-end Android devices, setting a new record for on-device inference without cloud dependencies. The app also includes agentic browsing and a prompt save-and-recall feature, with photorealistic image generation already live on iPhone and coming to Android next month. Homelab enthusiasts interested in fully local, private AI inference on mobile hardware can try it today. TechCrunch reports SpaceX has agreed to acquire AI coding assistant Cursor for $60 billion in stock, just days after Cursor's own blockbuster IPO — one of the most striking consolidation moves in the AI developer tools space. For developers currently relying on Cursor as a model-agnostic coding assistant, this acquisition signals a significant ownership and strategic shift. The deal is live news today and raises immediate questions about Cursor's roadmap and independence.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Saturday, June 20, 2026</title>
       <pubDate>Sat, 20 Jun 2026 07:38:51 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-20/2026-06-20-ai-briefing.mp3</guid>
