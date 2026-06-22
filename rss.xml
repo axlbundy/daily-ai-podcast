@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                          <item>
+      <title>AI Briefing — Monday, June 22, 2026</title>
+      <pubDate>Mon, 22 Jun 2026 10:45:14 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-22/2026-06-22-ai-briefing.mp3</guid>
+      <description>Matt Velloso, former VP at Meta, Google DeepMind, and Microsoft, spent an entire day with GLM-5.2 and called it the 'first open model that passes the bar as a daily driver,' saying 'things are not going to be the same.' The MIT-licensed, open-weight model is available to download and run locally today, making it the strongest self-hostable option for developers displaced by the Fable 5 shutdown. A peer-reviewed study in NEJM AI found that OpenAI's o3 model successfully identified new diagnoses for 18 children at Boston Children's Hospital, including rare neurodevelopmental and neuromuscular disorders that stumped physicians. Researchers called it 'a total game changer,' and the o3 model is available via the OpenAI API today, representing a concrete clinical validation of frontier model capability.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-22/2026-06-22-ai-briefing.mp3" length="5901060" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Monday, June 22, 2026</itunes:title>
+      <itunes:summary>Matt Velloso, former VP at Meta, Google DeepMind, and Microsoft, spent an entire day with GLM-5.2 and called it the 'first open model that passes the bar as a daily driver,' saying 'things are not going to be the same.' The MIT-licensed, open-weight model is available to download and run locally today, making it the strongest self-hostable option for developers displaced by the Fable 5 shutdown. A peer-reviewed study in NEJM AI found that OpenAI's o3 model successfully identified new diagnoses for 18 children at Boston Children's Hospital, including rare neurodevelopmental and neuromuscular disorders that stumped physicians. Researchers called it 'a total game changer,' and the o3 model is available via the OpenAI API today, representing a concrete clinical validation of frontier model capability.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Sunday, June 21, 2026</title>
       <pubDate>Sun, 21 Jun 2026 07:38:35 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-21/2026-06-21-ai-briefing.mp3</guid>
