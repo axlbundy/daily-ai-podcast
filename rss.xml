@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                              <item>
+      <title>AI Briefing — Wednesday, June 24, 2026</title>
+      <pubDate>Wed, 24 Jun 2026 07:39:39 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-24/2026-06-24-ai-briefing.mp3</guid>
+      <description>OpenAI released the full version of GPT-5.5-Cyber through its Trusted Access for Cyber program, achieving 85.6% on the CyberGym benchmark — outperforming Anthropic's Mythos 5 at 83.8%. The release also includes an updated Codex Security plugin designed to automatically discover and patch vulnerabilities before they reach production. Security researchers and developers doing authorized offensive/defensive work can apply for access today via OpenAI's limited release program. Intelligence agencies from the Five Eyes alliance published a joint warning that advanced AI hacking models are months away from widespread impact, noting that open-source models now lag frontier labs by only 6-8 months. The agencies specifically flagged that restricted frontier AI like Mythos quickly becomes freely available open-source AI, and urged defenders to act before risk assumptions become outdated. The report is directly relevant to any developer or homelab operator thinking about the security posture of locally-run AI tools.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-24/2026-06-24-ai-briefing.mp3" length="6119400" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Wednesday, June 24, 2026</itunes:title>
+      <itunes:summary>OpenAI released the full version of GPT-5.5-Cyber through its Trusted Access for Cyber program, achieving 85.6% on the CyberGym benchmark — outperforming Anthropic's Mythos 5 at 83.8%. The release also includes an updated Codex Security plugin designed to automatically discover and patch vulnerabilities before they reach production. Security researchers and developers doing authorized offensive/defensive work can apply for access today via OpenAI's limited release program. Intelligence agencies from the Five Eyes alliance published a joint warning that advanced AI hacking models are months away from widespread impact, noting that open-source models now lag frontier labs by only 6-8 months. The agencies specifically flagged that restricted frontier AI like Mythos quickly becomes freely available open-source AI, and urged defenders to act before risk assumptions become outdated. The report is directly relevant to any developer or homelab operator thinking about the security posture of locally-run AI tools.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Monday, June 22, 2026</title>
       <pubDate>Mon, 22 Jun 2026 10:45:14 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-22/2026-06-22-ai-briefing.mp3</guid>
