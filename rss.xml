@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                  <item>
+      <title>AI Briefing — Thursday, June 25, 2026</title>
+      <pubDate>Thu, 25 Jun 2026 07:39:21 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-25/2026-06-25-ai-briefing.mp3</guid>
+      <description>Google pushed a major Google Home update expanding Gemini for Home to all household members including kids, adding audio-aware Gemini event descriptions for Nest Cams, faster home screen widgets, and smoother automation tab navigation. The update is live now and represents one of the largest single Google Home feature drops in recent memory. Smart home enthusiasts running Google Home ecosystems will want to review the full changelog as camera AI and voice responsiveness improvements are particularly significant. 9to5Google confirms the Google Home update also improves Familiar Faces by auto-updating face libraries with the most accurate recent examples, and extends Gemini-generated event descriptions to include audio cues like barking dogs, alarms, and footsteps. Conversational latency and voice assistant performance have also been upgraded. This is a concrete, available-now improvement for anyone using Nest Cams for security or automation triggers.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-25/2026-06-25-ai-briefing.mp3" length="5926768" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Thursday, June 25, 2026</itunes:title>
+      <itunes:summary>Google pushed a major Google Home update expanding Gemini for Home to all household members including kids, adding audio-aware Gemini event descriptions for Nest Cams, faster home screen widgets, and smoother automation tab navigation. The update is live now and represents one of the largest single Google Home feature drops in recent memory. Smart home enthusiasts running Google Home ecosystems will want to review the full changelog as camera AI and voice responsiveness improvements are particularly significant. 9to5Google confirms the Google Home update also improves Familiar Faces by auto-updating face libraries with the most accurate recent examples, and extends Gemini-generated event descriptions to include audio cues like barking dogs, alarms, and footsteps. Conversational latency and voice assistant performance have also been upgraded. This is a concrete, available-now improvement for anyone using Nest Cams for security or automation triggers.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Wednesday, June 24, 2026</title>
       <pubDate>Wed, 24 Jun 2026 07:39:39 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-24/2026-06-24-ai-briefing.mp3</guid>
