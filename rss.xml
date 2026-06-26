@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                      <item>
+      <title>AI Briefing — Friday, June 26, 2026</title>
+      <pubDate>Fri, 26 Jun 2026 07:39:45 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-26/2026-06-26-ai-briefing.mp3</guid>
+      <description>OpenAI announced Jalapeño, a custom AI processor co-developed with Broadcom in just nine months — reportedly the fastest ASIC development cycle ever for high-performance semiconductors. The chip is designed specifically for modern large language models rather than general-purpose compute, marking OpenAI's first major step toward hardware independence from Nvidia. Developers relying on OpenAI APIs should watch this closely as proprietary silicon typically signals shifts in model performance, pricing, and infrastructure strategy. The Verge reports that OpenAI will delay the release of GPT-5.6 after a direct request from the Trump administration, the latest sign that government pressure is actively shaping frontier model release timelines. This follows the earlier Fable 5 export control episode and suggests a broader pattern of executive branch intervention in AI deployment. Developers planning product roadmaps around specific OpenAI model availability should factor in potential government-driven delays.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-26/2026-06-26-ai-briefing.mp3" length="6132239" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Friday, June 26, 2026</itunes:title>
+      <itunes:summary>OpenAI announced Jalapeño, a custom AI processor co-developed with Broadcom in just nine months — reportedly the fastest ASIC development cycle ever for high-performance semiconductors. The chip is designed specifically for modern large language models rather than general-purpose compute, marking OpenAI's first major step toward hardware independence from Nvidia. Developers relying on OpenAI APIs should watch this closely as proprietary silicon typically signals shifts in model performance, pricing, and infrastructure strategy. The Verge reports that OpenAI will delay the release of GPT-5.6 after a direct request from the Trump administration, the latest sign that government pressure is actively shaping frontier model release timelines. This follows the earlier Fable 5 export control episode and suggests a broader pattern of executive branch intervention in AI deployment. Developers planning product roadmaps around specific OpenAI model availability should factor in potential government-driven delays.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Thursday, June 25, 2026</title>
       <pubDate>Thu, 25 Jun 2026 07:39:21 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-25/2026-06-25-ai-briefing.mp3</guid>
