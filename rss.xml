@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                          <item>
+      <title>AI Briefing — Saturday, June 27, 2026</title>
+      <pubDate>Sat, 27 Jun 2026 07:39:57 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-27/2026-06-27-ai-briefing.mp3</guid>
+      <description>OpenAI launched a limited preview of GPT-5.6 just hours after news broke of government-requested staging, introducing three tiers: Sol (flagship), Terra (high-volume), and Luna (fast and affordable), with strengths in coding, cybersecurity, biology, and long-horizon agentic tasks. Access is being approved partner by partner at the Trump administration's request, mirroring the Anthropic Fable 5 situation. Developers and enterprises should watch partner approval timelines closely as this is the most capable OpenAI release currently accessible to any users. Samsung announced it will start charging for access to its SmartThings API, directly impacting Home Assistant users who rely on the integration for flexible smart home control. Home Assistant founder Paulus Schoutsen confirmed in a blog post that the HA SmartThings integration will fall under Samsung's new personal pricing plans. Users running SmartThings-connected devices through Home Assistant should review Samsung's new pricing tiers and consider whether their setup will require a paid plan.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-27/2026-06-27-ai-briefing.mp3" length="6314628" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Saturday, June 27, 2026</itunes:title>
+      <itunes:summary>OpenAI launched a limited preview of GPT-5.6 just hours after news broke of government-requested staging, introducing three tiers: Sol (flagship), Terra (high-volume), and Luna (fast and affordable), with strengths in coding, cybersecurity, biology, and long-horizon agentic tasks. Access is being approved partner by partner at the Trump administration's request, mirroring the Anthropic Fable 5 situation. Developers and enterprises should watch partner approval timelines closely as this is the most capable OpenAI release currently accessible to any users. Samsung announced it will start charging for access to its SmartThings API, directly impacting Home Assistant users who rely on the integration for flexible smart home control. Home Assistant founder Paulus Schoutsen confirmed in a blog post that the HA SmartThings integration will fall under Samsung's new personal pricing plans. Users running SmartThings-connected devices through Home Assistant should review Samsung's new pricing tiers and consider whether their setup will require a paid plan.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Friday, June 26, 2026</title>
       <pubDate>Fri, 26 Jun 2026 07:39:45 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-26/2026-06-26-ai-briefing.mp3</guid>
