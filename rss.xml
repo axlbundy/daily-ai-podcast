@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                              <item>
+      <title>AI Briefing — Sunday, June 28, 2026</title>
+      <pubDate>Sun, 28 Jun 2026 07:39:46 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-28/2026-06-28-ai-briefing.mp3</guid>
+      <description>Adobe has acquired Topaz Labs, a company known for its AI-powered image and video enhancement tools, to strengthen its Firefly AI suite across Creative Cloud. This brings best-in-class upscaling, noise reduction, and sharpening capabilities directly into Adobe's ecosystem. Photographers and video editors who already use Topaz products will want to watch how these tools get integrated into Lightroom, Photoshop, and Premiere. Samsung announced it will charge for SmartThings API access, and Home Assistant founder Paulus Schoutsen confirmed in a blog post that the HA SmartThings integration will fall under Samsung's new personal pricing plans. This is a direct financial impact on Home Assistant users running SmartThings-connected devices who currently access the API for free. Users should review Samsung's new pricing tiers immediately and evaluate whether their setup will require a paid plan.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-28/2026-06-28-ai-briefing.mp3" length="6184318" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Sunday, June 28, 2026</itunes:title>
+      <itunes:summary>Adobe has acquired Topaz Labs, a company known for its AI-powered image and video enhancement tools, to strengthen its Firefly AI suite across Creative Cloud. This brings best-in-class upscaling, noise reduction, and sharpening capabilities directly into Adobe's ecosystem. Photographers and video editors who already use Topaz products will want to watch how these tools get integrated into Lightroom, Photoshop, and Premiere. Samsung announced it will charge for SmartThings API access, and Home Assistant founder Paulus Schoutsen confirmed in a blog post that the HA SmartThings integration will fall under Samsung's new personal pricing plans. This is a direct financial impact on Home Assistant users running SmartThings-connected devices who currently access the API for free. Users should review Samsung's new pricing tiers immediately and evaluate whether their setup will require a paid plan.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Saturday, June 27, 2026</title>
       <pubDate>Sat, 27 Jun 2026 07:39:57 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-27/2026-06-27-ai-briefing.mp3</guid>
