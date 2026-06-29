@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                  <item>
+      <title>AI Briefing — Monday, June 29, 2026</title>
+      <pubDate>Mon, 29 Jun 2026 07:35:50 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-29/2026-06-29-ai-briefing.mp3</guid>
+      <description>Washington has cleared Anthropic's Mythos 5 model for roughly 100 vetted US organizations defending critical infrastructure, marking a significant reversal from the earlier shutdown. This is a major concrete development — the model is now accessible again via a government-mediated trusted-partner program, directly affecting developers and enterprises who were locked out. Forbes frames this as a new norm where security and compliance posture determines access to the most capable models. OpenAI unveiled GPT-5.6 Sol with cybersecurity as its headline capability, backed by 700,000 A100-equivalent GPU hours of automated red-teaming targeting universal jailbreaks. The model is currently accessible via API and Codex to approved partners, with broader ChatGPT and API rollout planned for coming weeks. OpenAI publicly pushed back against government-mediated pre-clearance becoming a long-term standard, adding regulatory tension to the launch.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-29/2026-06-29-ai-briefing.mp3" length="5401356" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Monday, June 29, 2026</itunes:title>
+      <itunes:summary>Washington has cleared Anthropic's Mythos 5 model for roughly 100 vetted US organizations defending critical infrastructure, marking a significant reversal from the earlier shutdown. This is a major concrete development — the model is now accessible again via a government-mediated trusted-partner program, directly affecting developers and enterprises who were locked out. Forbes frames this as a new norm where security and compliance posture determines access to the most capable models. OpenAI unveiled GPT-5.6 Sol with cybersecurity as its headline capability, backed by 700,000 A100-equivalent GPU hours of automated red-teaming targeting universal jailbreaks. The model is currently accessible via API and Codex to approved partners, with broader ChatGPT and API rollout planned for coming weeks. OpenAI publicly pushed back against government-mediated pre-clearance becoming a long-term standard, adding regulatory tension to the launch.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Sunday, June 28, 2026</title>
       <pubDate>Sun, 28 Jun 2026 07:39:46 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-28/2026-06-28-ai-briefing.mp3</guid>
