@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                      <item>
+      <title>AI Briefing — Tuesday, June 30, 2026</title>
+      <pubDate>Tue, 30 Jun 2026 07:40:06 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-30/2026-06-30-ai-briefing.mp3</guid>
+      <description>Gizmodo published a hands-on review of Meta's Fury AI glasses on June 29, calling them the best smart glasses available despite reservations about Meta as a company. The glasses are available to buy now, making this a concrete purchase decision for anyone eyeing AI wearables in mid-2026. Meta released Brain2Qwerty v2, an AI model trained on MEG brain scans from nine volunteers typing over 10 hours each, achieving 69% character recognition and up to 78% word accuracy — a meaningful improvement over v1. The model was trained on roughly 22,000 text data points and represents one of the most concrete non-invasive brain-computer interface results published to date. Researchers and developers tracking BCI and AI intersection will want to read the full methodology.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-30/2026-06-30-ai-briefing.mp3" length="6217338" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Tuesday, June 30, 2026</itunes:title>
+      <itunes:summary>Gizmodo published a hands-on review of Meta's Fury AI glasses on June 29, calling them the best smart glasses available despite reservations about Meta as a company. The glasses are available to buy now, making this a concrete purchase decision for anyone eyeing AI wearables in mid-2026. Meta released Brain2Qwerty v2, an AI model trained on MEG brain scans from nine volunteers typing over 10 hours each, achieving 69% character recognition and up to 78% word accuracy — a meaningful improvement over v1. The model was trained on roughly 22,000 text data points and represents one of the most concrete non-invasive brain-computer interface results published to date. Researchers and developers tracking BCI and AI intersection will want to read the full methodology.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Monday, June 29, 2026</title>
       <pubDate>Mon, 29 Jun 2026 07:35:50 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-29/2026-06-29-ai-briefing.mp3</guid>
