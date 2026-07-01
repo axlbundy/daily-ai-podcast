@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                          <item>
+      <title>AI Briefing — Wednesday, July 1, 2026</title>
+      <pubDate>Wed, 01 Jul 2026 07:36:29 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-01/2026-07-01-ai-briefing.mp3</guid>
+      <description>Anthropic launched Claude Sonnet 5 on Tuesday, a new model that matches Opus 4.8 performance at less than half the price — $2 per million input tokens and $10 per million output tokens via Claude Code. It is now the default model on Claude's free and Pro tiers and is immediately available to Max, Team, and Enterprise subscribers, making it a concrete upgrade for developers running agentic workflows today. The open-source OpenClaw agent, which drew significant attention earlier this year, has officially shipped as a mobile app for both iOS and Android platforms, per TechCrunch reporting. This marks a concrete availability moment for developers and homelab users who want an agentic AI tool running on their phones without frontier-model API dependencies.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-01/2026-07-01-ai-briefing.mp3" length="5926914" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Wednesday, July 1, 2026</itunes:title>
+      <itunes:summary>Anthropic launched Claude Sonnet 5 on Tuesday, a new model that matches Opus 4.8 performance at less than half the price — $2 per million input tokens and $10 per million output tokens via Claude Code. It is now the default model on Claude's free and Pro tiers and is immediately available to Max, Team, and Enterprise subscribers, making it a concrete upgrade for developers running agentic workflows today. The open-source OpenClaw agent, which drew significant attention earlier this year, has officially shipped as a mobile app for both iOS and Android platforms, per TechCrunch reporting. This marks a concrete availability moment for developers and homelab users who want an agentic AI tool running on their phones without frontier-model API dependencies.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Tuesday, June 30, 2026</title>
       <pubDate>Tue, 30 Jun 2026 07:40:06 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-06-30/2026-06-30-ai-briefing.mp3</guid>
