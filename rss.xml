@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                              <item>
+      <title>AI Briefing — Thursday, July 2, 2026</title>
+      <pubDate>Thu, 02 Jul 2026 07:38:01 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-02/2026-07-02-ai-briefing.mp3</guid>
+      <description>Axios reports that Anthropic's Fable 5 model is back online after the US government lifted the export restrictions that had blocked it. Until July 7, subscribers can use Fable for up to half their included data usage, after which it shifts to pay-per-token access. This is a major reversal directly affecting developers and enterprises who were locked out of the model. Google released Nano Banana 2 Lite on Tuesday, a significantly faster and more affordable image and video generation model capable of producing images in four seconds at $0.034 per 1,000 images. It is available now through Google AI Studio and the Gemini API, making it immediately accessible for developers building image-heavy pipelines. The price point and speed make it a compelling option for rapid prototyping and high-volume content workflows.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-02/2026-07-02-ai-briefing.mp3" length="4999224" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Thursday, July 2, 2026</itunes:title>
+      <itunes:summary>Axios reports that Anthropic's Fable 5 model is back online after the US government lifted the export restrictions that had blocked it. Until July 7, subscribers can use Fable for up to half their included data usage, after which it shifts to pay-per-token access. This is a major reversal directly affecting developers and enterprises who were locked out of the model. Google released Nano Banana 2 Lite on Tuesday, a significantly faster and more affordable image and video generation model capable of producing images in four seconds at $0.034 per 1,000 images. It is available now through Google AI Studio and the Gemini API, making it immediately accessible for developers building image-heavy pipelines. The price point and speed make it a compelling option for rapid prototyping and high-volume content workflows.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Wednesday, July 1, 2026</title>
       <pubDate>Wed, 01 Jul 2026 07:36:29 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-01/2026-07-01-ai-briefing.mp3</guid>
