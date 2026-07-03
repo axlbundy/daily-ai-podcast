@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                  <item>
+      <title>AI Briefing — Friday, July 3, 2026</title>
+      <pubDate>Fri, 03 Jul 2026 07:39:46 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-03/2026-07-03-ai-briefing.mp3</guid>
+      <description>Proton has upgraded its Lumo chatbot to version 2.0, adding image generation, persistent memory, and stronger web search while maintaining its privacy-first, no-data-grab positioning. This makes Lumo a concrete alternative to ChatGPT and Claude for users who want frontier AI capabilities without their data being used for training. The updated chatbot is available now via Proton's platform. Dark Reading published a detailed analysis today showing that two new Chinese AI tools — GLM-5.2 and 360 Security's Tulongfeng — are materially shifting the cyber offense-defense balance, with GLM-5.2 finding vulnerabilities at $0.17 each and Tulongfeng claiming 3,400 bugs found already. The piece frames open-weight Chinese models as an uncontrollable threat vector that defenders cannot match at comparable scale or cost. Security professionals running defensive AI tooling should read this as a concrete threat landscape update.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-03/2026-07-03-ai-briefing.mp3" length="6160931" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Friday, July 3, 2026</itunes:title>
+      <itunes:summary>Proton has upgraded its Lumo chatbot to version 2.0, adding image generation, persistent memory, and stronger web search while maintaining its privacy-first, no-data-grab positioning. This makes Lumo a concrete alternative to ChatGPT and Claude for users who want frontier AI capabilities without their data being used for training. The updated chatbot is available now via Proton's platform. Dark Reading published a detailed analysis today showing that two new Chinese AI tools — GLM-5.2 and 360 Security's Tulongfeng — are materially shifting the cyber offense-defense balance, with GLM-5.2 finding vulnerabilities at $0.17 each and Tulongfeng claiming 3,400 bugs found already. The piece frames open-weight Chinese models as an uncontrollable threat vector that defenders cannot match at comparable scale or cost. Security professionals running defensive AI tooling should read this as a concrete threat landscape update.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Thursday, July 2, 2026</title>
       <pubDate>Thu, 02 Jul 2026 07:38:01 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-02/2026-07-02-ai-briefing.mp3</guid>
