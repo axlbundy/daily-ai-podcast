@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                      <item>
+      <title>AI Briefing — Saturday, July 4, 2026</title>
+      <pubDate>Sat, 04 Jul 2026 07:39:32 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-04/2026-07-04-ai-briefing.mp3</guid>
+      <description>NVIDIA AI has released ASPIRE, a self-improving robotics framework that achieves 31% zero-shot performance on LIBERO-Pro Long Tasks, a challenging benchmark for long-horizon robot manipulation. The framework is available now, making it directly relevant for researchers and homelab robotics enthusiasts exploring autonomous agent training without task-specific supervision. Mistral AI has released Leanstral 1.5, an Apache-2.0-licensed model specialized for Lean 4 formal mathematics and code reasoning, solving 587 of 672 PutnamBench problems. The open license and strong benchmark results make it immediately usable for developers working on formal verification, theorem proving, or mathematically rigorous code generation pipelines.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-04/2026-07-04-ai-briefing.mp3" length="6022808" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Saturday, July 4, 2026</itunes:title>
+      <itunes:summary>NVIDIA AI has released ASPIRE, a self-improving robotics framework that achieves 31% zero-shot performance on LIBERO-Pro Long Tasks, a challenging benchmark for long-horizon robot manipulation. The framework is available now, making it directly relevant for researchers and homelab robotics enthusiasts exploring autonomous agent training without task-specific supervision. Mistral AI has released Leanstral 1.5, an Apache-2.0-licensed model specialized for Lean 4 formal mathematics and code reasoning, solving 587 of 672 PutnamBench problems. The open license and strong benchmark results make it immediately usable for developers working on formal verification, theorem proving, or mathematically rigorous code generation pipelines.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Friday, July 3, 2026</title>
       <pubDate>Fri, 03 Jul 2026 07:39:46 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-03/2026-07-03-ai-briefing.mp3</guid>
