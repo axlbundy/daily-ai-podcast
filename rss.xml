@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                          <item>
+      <title>AI Briefing — Sunday, July 5, 2026</title>
+      <pubDate>Sun, 05 Jul 2026 07:39:15 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-05/2026-07-05-ai-briefing.mp3</guid>
+      <description>Anthropic has launched Claude Science Beta, a multi-agent AI workbench targeting reproducible genomics, proteomics, and cheminformatics pipelines. This is a concrete, usable product aimed at researchers and developers building scientific automation workflows, available now for testing. It extends Claude's agentic capabilities into structured scientific domains with reproducibility as a core design goal. Mistral CEO Arthur Mensch confirmed in a TechCrunch profile that a major new open-weight model is coming this summer, with early access opening in July 2026. Mensch claims Mistral has state-of-the-art solutions in voice, vision, and document processing, and that the gap with frontier labs is narrowing. Developers building on open-weight models should watch for the early access window, which opens this month.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-05/2026-07-05-ai-briefing.mp3" length="5830441" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Sunday, July 5, 2026</itunes:title>
+      <itunes:summary>Anthropic has launched Claude Science Beta, a multi-agent AI workbench targeting reproducible genomics, proteomics, and cheminformatics pipelines. This is a concrete, usable product aimed at researchers and developers building scientific automation workflows, available now for testing. It extends Claude's agentic capabilities into structured scientific domains with reproducibility as a core design goal. Mistral CEO Arthur Mensch confirmed in a TechCrunch profile that a major new open-weight model is coming this summer, with early access opening in July 2026. Mensch claims Mistral has state-of-the-art solutions in voice, vision, and document processing, and that the gap with frontier labs is narrowing. Developers building on open-weight models should watch for the early access window, which opens this month.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Saturday, July 4, 2026</title>
       <pubDate>Sat, 04 Jul 2026 07:39:32 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-04/2026-07-04-ai-briefing.mp3</guid>
