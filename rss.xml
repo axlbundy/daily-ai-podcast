@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                              <item>
+      <title>AI Briefing — Monday, July 6, 2026</title>
+      <pubDate>Mon, 06 Jul 2026 07:39:30 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-06/2026-07-06-ai-briefing.mp3</guid>
+      <description>Home Assistant's July 2026 release introduces automations described in plain language alongside new integrations including Aqvify water well and tank sensors. The release is live now and directly usable by anyone running a Home Assistant instance looking to simplify automation creation or expand sensor coverage. After being restricted to select trusted US organizations, Anthropic is now working with the US Commerce Department to expand Mythos 5 access to the full domestic and international Glasswing partner base. The cybersecurity-focused model previously had broader availability under Glasswing before the export ban, and this expansion represents a concrete rollout step beyond the initial limited clearance. Developers and security teams in the Glasswing program can now anticipate restored access.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-06/2026-07-06-ai-briefing.mp3" length="5909334" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Monday, July 6, 2026</itunes:title>
+      <itunes:summary>Home Assistant's July 2026 release introduces automations described in plain language alongside new integrations including Aqvify water well and tank sensors. The release is live now and directly usable by anyone running a Home Assistant instance looking to simplify automation creation or expand sensor coverage. After being restricted to select trusted US organizations, Anthropic is now working with the US Commerce Department to expand Mythos 5 access to the full domestic and international Glasswing partner base. The cybersecurity-focused model previously had broader availability under Glasswing before the export ban, and this expansion represents a concrete rollout step beyond the initial limited clearance. Developers and security teams in the Glasswing program can now anticipate restored access.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Sunday, July 5, 2026</title>
       <pubDate>Sun, 05 Jul 2026 07:39:15 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-05/2026-07-05-ai-briefing.mp3</guid>
