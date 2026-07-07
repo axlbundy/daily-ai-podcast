@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                  <item>
+      <title>AI Briefing — Tuesday, July 7, 2026</title>
+      <pubDate>Tue, 07 Jul 2026 07:39:01 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-07/2026-07-07-ai-briefing.mp3</guid>
+      <description>CNBC reports that AI startup Lindy moved 100% of its traffic from Anthropic's Claude to DeepSeek, with CEO Flo Crivello saying the switch will save millions within months. Vercel's CEO confirmed in a separate Business Insider piece that model lock-in is dead and Chinese models like DeepSeek and GLM-5.2 are seeing rapid adoption among production teams. Developers evaluating inference costs have concrete real-world cost data to act on now. Vercel CEO Guillermo Rauch told Business Insider that every layer of the AI stack is now plug-and-play, with OpenAI, Anthropic, Gemini, DeepSeek, and GLM-5.2 all interchangeable. He highlighted Gemini's price-to-performance ratio for scaling and noted companies are moving past prototyping into the harder challenges of agents in production. This is a concrete signal for developers architecting multi-model pipelines that vendor diversification is now standard practice.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-07/2026-07-07-ai-briefing.mp3" length="5993546" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Tuesday, July 7, 2026</itunes:title>
+      <itunes:summary>CNBC reports that AI startup Lindy moved 100% of its traffic from Anthropic's Claude to DeepSeek, with CEO Flo Crivello saying the switch will save millions within months. Vercel's CEO confirmed in a separate Business Insider piece that model lock-in is dead and Chinese models like DeepSeek and GLM-5.2 are seeing rapid adoption among production teams. Developers evaluating inference costs have concrete real-world cost data to act on now. Vercel CEO Guillermo Rauch told Business Insider that every layer of the AI stack is now plug-and-play, with OpenAI, Anthropic, Gemini, DeepSeek, and GLM-5.2 all interchangeable. He highlighted Gemini's price-to-performance ratio for scaling and noted companies are moving past prototyping into the harder challenges of agents in production. This is a concrete signal for developers architecting multi-model pipelines that vendor diversification is now standard practice.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Monday, July 6, 2026</title>
       <pubDate>Mon, 06 Jul 2026 07:39:30 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-06/2026-07-06-ai-briefing.mp3</guid>
