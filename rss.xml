@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                      <item>
+      <title>AI Briefing — Wednesday, July 8, 2026</title>
+      <pubDate>Wed, 08 Jul 2026 07:38:34 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-08/2026-07-08-ai-briefing.mp3</guid>
+      <description>Reuters confirms OpenAI received US government clearance for a broad GPT-5.6 rollout, with all three model tiers — Sol, Terra, and Luna — dropping Thursday after a government-mandated delay over national security concerns. This marks the first time the US government has formally reviewed and cleared a frontier model release under the new executive order framework. Developers who've been waiting on the full public launch now have a confirmed date and can plan integrations accordingly. French AI startup ZML — backed by Turing Award winner Yann LeCun — has released LLMD, a free LLM inference server that runs open-source models across a wide range of chips including NVIDIA, AMD, Google TPU, Apple Metal, and Intel Arc, sometimes exceeding native speeds. The tool is available now and directly targets the fragmentation problem for developers running open-weight models across heterogeneous hardware. Homelab builders and local inference enthusiasts with mixed hardware setups have a concrete new tool to evaluate today.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-08/2026-07-08-ai-briefing.mp3" length="5733950" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Wednesday, July 8, 2026</itunes:title>
+      <itunes:summary>Reuters confirms OpenAI received US government clearance for a broad GPT-5.6 rollout, with all three model tiers — Sol, Terra, and Luna — dropping Thursday after a government-mandated delay over national security concerns. This marks the first time the US government has formally reviewed and cleared a frontier model release under the new executive order framework. Developers who've been waiting on the full public launch now have a confirmed date and can plan integrations accordingly. French AI startup ZML — backed by Turing Award winner Yann LeCun — has released LLMD, a free LLM inference server that runs open-source models across a wide range of chips including NVIDIA, AMD, Google TPU, Apple Metal, and Intel Arc, sometimes exceeding native speeds. The tool is available now and directly targets the fragmentation problem for developers running open-weight models across heterogeneous hardware. Homelab builders and local inference enthusiasts with mixed hardware setups have a concrete new tool to evaluate today.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Tuesday, July 7, 2026</title>
       <pubDate>Tue, 07 Jul 2026 07:39:01 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-07/2026-07-07-ai-briefing.mp3</guid>
