@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                          <item>
+      <title>AI Briefing — Thursday, July 9, 2026</title>
+      <pubDate>Thu, 09 Jul 2026 07:39:02 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-09/2026-07-09-ai-briefing.mp3</guid>
+      <description>OpenAI received US government clearance and publicly released all three GPT-5.6 tiers — Sol, Terra, and Luna — on Thursday, ending the government-mandated delay. Alongside the model launch, OpenAI announced GPT-Live-1 and GPT-Live-1 mini, new voice models capable of simultaneous listening and speaking for more natural conversation. Developers who've been waiting on the full public rollout can now access and integrate all three tiers immediately. Ollama, the popular open-source tool for running local AI models, has raised $65 million in new funding and grown to nearly 9 million users, up from its $15M Series A. The platform now offers hosted access to larger models via subscription tiers from free to $100/month, billed by GPU time rather than token limits. For homelab builders and local AI enthusiasts, this signals Ollama is maturing into a serious infrastructure option beyond just desktop experimentation.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-09/2026-07-09-ai-briefing.mp3" length="5959800" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Thursday, July 9, 2026</itunes:title>
+      <itunes:summary>OpenAI received US government clearance and publicly released all three GPT-5.6 tiers — Sol, Terra, and Luna — on Thursday, ending the government-mandated delay. Alongside the model launch, OpenAI announced GPT-Live-1 and GPT-Live-1 mini, new voice models capable of simultaneous listening and speaking for more natural conversation. Developers who've been waiting on the full public rollout can now access and integrate all three tiers immediately. Ollama, the popular open-source tool for running local AI models, has raised $65 million in new funding and grown to nearly 9 million users, up from its $15M Series A. The platform now offers hosted access to larger models via subscription tiers from free to $100/month, billed by GPU time rather than token limits. For homelab builders and local AI enthusiasts, this signals Ollama is maturing into a serious infrastructure option beyond just desktop experimentation.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Wednesday, July 8, 2026</title>
       <pubDate>Wed, 08 Jul 2026 07:38:34 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-08/2026-07-08-ai-briefing.mp3</guid>
