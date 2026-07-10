@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                              <item>
+      <title>AI Briefing — Friday, July 10, 2026</title>
+      <pubDate>Fri, 10 Jul 2026 07:38:55 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-10/2026-07-10-ai-briefing.mp3</guid>
+      <description>Meta released Muse Spark 1.1 on Thursday, its strongest model for agentic and coding work, now available via a public Meta Model API preview with $20 in free credits for new accounts. The model powers Thinking mode in the Meta AI app and website, and follows the earlier Muse Spark which was restricted to select private API partners. Developers evaluating alternatives to Claude Code and GPT-5.6 Sol for agentic tasks have a new, immediately accessible API to benchmark today. n8n has launched a brand new MCP server designed specifically for use with agentic coding tools like Claude Code and Codex, offering a bridge between visual workflow automation and AI agent pipelines that did not previously exist in a clean form. The release is covered in a YouTube deep-dive that walks through practical use cases and evaluates whether it makes n8n worth adding back to agentic stacks. Developers who moved away from n8n toward pure agent tooling now have a concrete reason to revisit the combination.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-10/2026-07-10-ai-briefing.mp3" length="5770036" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Friday, July 10, 2026</itunes:title>
+      <itunes:summary>Meta released Muse Spark 1.1 on Thursday, its strongest model for agentic and coding work, now available via a public Meta Model API preview with $20 in free credits for new accounts. The model powers Thinking mode in the Meta AI app and website, and follows the earlier Muse Spark which was restricted to select private API partners. Developers evaluating alternatives to Claude Code and GPT-5.6 Sol for agentic tasks have a new, immediately accessible API to benchmark today. n8n has launched a brand new MCP server designed specifically for use with agentic coding tools like Claude Code and Codex, offering a bridge between visual workflow automation and AI agent pipelines that did not previously exist in a clean form. The release is covered in a YouTube deep-dive that walks through practical use cases and evaluates whether it makes n8n worth adding back to agentic stacks. Developers who moved away from n8n toward pure agent tooling now have a concrete reason to revisit the combination.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Thursday, July 9, 2026</title>
       <pubDate>Thu, 09 Jul 2026 07:39:02 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-09/2026-07-09-ai-briefing.mp3</guid>
