@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                  <item>
+      <title>AI Briefing — Saturday, July 11, 2026</title>
+      <pubDate>Sat, 11 Jul 2026 07:39:29 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-11/2026-07-11-ai-briefing.mp3</guid>
+      <description>OpenAI expanded GPT-5.6's Thursday launch by simultaneously releasing ChatGPT Work, a unified enterprise super-app integrating Codex, which now serves 5 million weekly users across data analysis, research, and coding. The move is a direct bid to own the office productivity layer, going beyond model releases to capture daily workflow context from competitors including Anthropic and Google. Developers and enterprise teams can access the new Work tooling now through the ChatGPT platform. Business Insider exclusively reports that Perplexity is developing an agentic coding tool called Teammate, entering the increasingly crowded AI coding market against Anthropic's Claude Code and OpenAI's Codex. This surfaces amid a 72-hour wave of rival AI announcements from OpenAI, Meta, and SpaceXAI, underscoring how intensely competitive the coding-agent space has become. No public release date is given, but the existence of a working internal product signals a near-term launch.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-11/2026-07-11-ai-briefing.mp3" length="6310438" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Saturday, July 11, 2026</itunes:title>
+      <itunes:summary>OpenAI expanded GPT-5.6's Thursday launch by simultaneously releasing ChatGPT Work, a unified enterprise super-app integrating Codex, which now serves 5 million weekly users across data analysis, research, and coding. The move is a direct bid to own the office productivity layer, going beyond model releases to capture daily workflow context from competitors including Anthropic and Google. Developers and enterprise teams can access the new Work tooling now through the ChatGPT platform. Business Insider exclusively reports that Perplexity is developing an agentic coding tool called Teammate, entering the increasingly crowded AI coding market against Anthropic's Claude Code and OpenAI's Codex. This surfaces amid a 72-hour wave of rival AI announcements from OpenAI, Meta, and SpaceXAI, underscoring how intensely competitive the coding-agent space has become. No public release date is given, but the existence of a working internal product signals a near-term launch.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Friday, July 10, 2026</title>
       <pubDate>Fri, 10 Jul 2026 07:38:55 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-10/2026-07-10-ai-briefing.mp3</guid>
