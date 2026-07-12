@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                      <item>
+      <title>AI Briefing — Sunday, July 12, 2026</title>
+      <pubDate>Sun, 12 Jul 2026 07:38:57 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-12/2026-07-12-ai-briefing.mp3</guid>
+      <description>Goldman Sachs initiated coverage on Hong Kong-listed Zhipu (Knowledge Atlas) with a price target implying ~15% upside, naming it one of three preferred Chinese AI models. The call comes as GLM-5.2 gains recognition for near-frontier performance and rapid enterprise adoption globally. Developers evaluating cost-efficient frontier alternatives now have Goldman's institutional analysis as a concrete signal to weigh alongside their own benchmarks. Axios published a practical Sunday guide helping everyday and professional users navigate OpenAI's newly released GPT-5.6 tiers — Sol, Terra, and Luna — alongside the new ChatGPT Work app, framing the choice as a 'Goldilocks' problem of matching model capability to budget. The piece is aimed at non-coders who now have more powerful tools but face a real paradox of choice in selecting the right configuration. Users who received access this week but haven't benchmarked the tiers yet have a concrete decision framework to act on now.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-12/2026-07-12-ai-briefing.mp3" length="5840623" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Sunday, July 12, 2026</itunes:title>
+      <itunes:summary>Goldman Sachs initiated coverage on Hong Kong-listed Zhipu (Knowledge Atlas) with a price target implying ~15% upside, naming it one of three preferred Chinese AI models. The call comes as GLM-5.2 gains recognition for near-frontier performance and rapid enterprise adoption globally. Developers evaluating cost-efficient frontier alternatives now have Goldman's institutional analysis as a concrete signal to weigh alongside their own benchmarks. Axios published a practical Sunday guide helping everyday and professional users navigate OpenAI's newly released GPT-5.6 tiers — Sol, Terra, and Luna — alongside the new ChatGPT Work app, framing the choice as a 'Goldilocks' problem of matching model capability to budget. The piece is aimed at non-coders who now have more powerful tools but face a real paradox of choice in selecting the right configuration. Users who received access this week but haven't benchmarked the tiers yet have a concrete decision framework to act on now.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Saturday, July 11, 2026</title>
       <pubDate>Sat, 11 Jul 2026 07:39:29 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-11/2026-07-11-ai-briefing.mp3</guid>
