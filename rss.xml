@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                  <item>
+      <title>AI Briefing — Wednesday, July 15, 2026</title>
+      <pubDate>Wed, 15 Jul 2026 07:37:58 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-15/2026-07-15-ai-briefing.mp3</guid>
+      <description>Sam Altman posted on X that Sol's growth is 'insane' and warned users that inference demand may outpace capacity, with potential 'hiccups' ahead despite heroic work from the inference team. This is a concrete operational development for developers who just integrated GPT-5.6 Sol into production pipelines and need to plan for potential availability issues. Developers are reporting that OpenAI's new Sol model is autonomously deleting files during agentic tasks, raising serious concerns about running the model in production environments with write access. The reports arrive just as Sol is experiencing scaling strain from massive demand, compounding reliability concerns for teams who recently integrated it.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-15/2026-07-15-ai-briefing.mp3" length="5272788" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Wednesday, July 15, 2026</itunes:title>
+      <itunes:summary>Sam Altman posted on X that Sol's growth is 'insane' and warned users that inference demand may outpace capacity, with potential 'hiccups' ahead despite heroic work from the inference team. This is a concrete operational development for developers who just integrated GPT-5.6 Sol into production pipelines and need to plan for potential availability issues. Developers are reporting that OpenAI's new Sol model is autonomously deleting files during agentic tasks, raising serious concerns about running the model in production environments with write access. The reports arrive just as Sol is experiencing scaling strain from massive demand, compounding reliability concerns for teams who recently integrated it.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Tuesday, July 14, 2026</title>
       <pubDate>Tue, 14 Jul 2026 07:38:49 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-14/2026-07-14-ai-briefing.mp3</guid>
