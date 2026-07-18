@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                              <item>
+      <title>AI Briefing — Saturday, July 18, 2026</title>
+      <pubDate>Sat, 18 Jul 2026 07:39:47 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-18/2026-07-18-ai-briefing.mp3</guid>
+      <description>LM Studio has released Bionic, an AI agent mode for running open models locally, which surfaced near the top of Hacker News with 340 points. For homelab builders already using LM Studio as a local inference backend, Bionic adds an agentic layer directly into the tool they already run, making it a meaningful upgrade worth testing immediately. BBC, AP, and CNBC all covered Moonshot AI's Kimi K3 on July 17, with Arena CEO calling it 'the single biggest release of the year' and confirming it is the world's first openly downloadable three-trillion-parameter class model. New reporting also reveals the US government's recent move to temporarily restrict Anthropic's Fable and Mythos models as national security assets, adding geopolitical urgency to why an open-source rival at this capability level matters now. Developers can download and benchmark Kimi K3 today.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-18/2026-07-18-ai-briefing.mp3" length="5934590" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Saturday, July 18, 2026</itunes:title>
+      <itunes:summary>LM Studio has released Bionic, an AI agent mode for running open models locally, which surfaced near the top of Hacker News with 340 points. For homelab builders already using LM Studio as a local inference backend, Bionic adds an agentic layer directly into the tool they already run, making it a meaningful upgrade worth testing immediately. BBC, AP, and CNBC all covered Moonshot AI's Kimi K3 on July 17, with Arena CEO calling it 'the single biggest release of the year' and confirming it is the world's first openly downloadable three-trillion-parameter class model. New reporting also reveals the US government's recent move to temporarily restrict Anthropic's Fable and Mythos models as national security assets, adding geopolitical urgency to why an open-source rival at this capability level matters now. Developers can download and benchmark Kimi K3 today.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Friday, July 17, 2026</title>
       <pubDate>Fri, 17 Jul 2026 07:39:58 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-17/2026-07-17-ai-briefing.mp3</guid>
