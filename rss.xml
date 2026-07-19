@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                  <item>
+      <title>AI Briefing — Sunday, July 19, 2026</title>
+      <pubDate>Sun, 19 Jul 2026 10:06:16 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-19/2026-07-19-ai-briefing.mp3</guid>
+      <description>Axios reports that SpaceXAI this week open-sourced Grok Build, the software behind its coding agent, extending the open-weight push beyond models themselves to the agentic tooling layer. This gives developers a concrete, downloadable codebase to inspect, modify, and deploy as a coding agent foundation. Teams evaluating open agentic stacks now have a first-party reference implementation from one of the top-ranked agentic tool-use labs. Axios's Saturday analysis highlights that Nvidia is rapidly expanding its Nemotron family of open models, betting that customizable on-prem AI will drive demand for its chips and software stack. The models are directly downloadable and positioned as enterprise-grade open-weight alternatives to closed frontier APIs. Developers building on-premise inference pipelines have a new high-quality model family from a hardware-aligned lab to benchmark and deploy.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-19/2026-07-19-ai-briefing.mp3" length="6107214" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Sunday, July 19, 2026</itunes:title>
+      <itunes:summary>Axios reports that SpaceXAI this week open-sourced Grok Build, the software behind its coding agent, extending the open-weight push beyond models themselves to the agentic tooling layer. This gives developers a concrete, downloadable codebase to inspect, modify, and deploy as a coding agent foundation. Teams evaluating open agentic stacks now have a first-party reference implementation from one of the top-ranked agentic tool-use labs. Axios's Saturday analysis highlights that Nvidia is rapidly expanding its Nemotron family of open models, betting that customizable on-prem AI will drive demand for its chips and software stack. The models are directly downloadable and positioned as enterprise-grade open-weight alternatives to closed frontier APIs. Developers building on-premise inference pipelines have a new high-quality model family from a hardware-aligned lab to benchmark and deploy.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Saturday, July 18, 2026</title>
       <pubDate>Sat, 18 Jul 2026 07:39:47 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-18/2026-07-18-ai-briefing.mp3</guid>
