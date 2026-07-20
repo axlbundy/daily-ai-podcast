@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                      <item>
+      <title>AI Briefing — Monday, July 20, 2026</title>
+      <pubDate>Mon, 20 Jul 2026 07:38:07 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-20/2026-07-20-ai-briefing.mp3</guid>
+      <description>Alibaba has released a preview of Qwen3.8, which it describes as 'one of the most powerful models available today' and 'second only to Fable 5.' Like Kimi K3, Alibaba is emphasizing open availability as a key differentiator from closed US frontier labs, letting developers freely download, modify, and build on the model. This gives developers a second major open-weight Chinese frontier model to benchmark this week alongside Kimi K3. Moonshot AI's Kimi K3 has proven so popular that the company was forced to gate new users due to GPU strain from massive demand in its first two days. Business Insider reports that US executives at Coinbase and Airbnb have publicly cited Kimi, GLM-5.2, and Qwen as cost-effective alternatives they are actively using, signaling enterprise adoption beyond hobbyist benchmarking. Developers evaluating open-weight alternatives to GPT-5.6 and Fable 5 now have a concrete demand signal showing Kimi K3 is already under real production load.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-20/2026-07-20-ai-briefing.mp3" length="5551678" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Monday, July 20, 2026</itunes:title>
+      <itunes:summary>Alibaba has released a preview of Qwen3.8, which it describes as 'one of the most powerful models available today' and 'second only to Fable 5.' Like Kimi K3, Alibaba is emphasizing open availability as a key differentiator from closed US frontier labs, letting developers freely download, modify, and build on the model. This gives developers a second major open-weight Chinese frontier model to benchmark this week alongside Kimi K3. Moonshot AI's Kimi K3 has proven so popular that the company was forced to gate new users due to GPU strain from massive demand in its first two days. Business Insider reports that US executives at Coinbase and Airbnb have publicly cited Kimi, GLM-5.2, and Qwen as cost-effective alternatives they are actively using, signaling enterprise adoption beyond hobbyist benchmarking. Developers evaluating open-weight alternatives to GPT-5.6 and Fable 5 now have a concrete demand signal showing Kimi K3 is already under real production load.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Sunday, July 19, 2026</title>
       <pubDate>Sun, 19 Jul 2026 10:06:16 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-19/2026-07-19-ai-briefing.mp3</guid>
