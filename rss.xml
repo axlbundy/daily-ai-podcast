@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                          <item>
+      <title>AI Briefing — Tuesday, July 21, 2026</title>
+      <pubDate>Tue, 21 Jul 2026 07:39:16 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-21/2026-07-21-ai-briefing.mp3</guid>
+      <description>OpenAI's newly hired Head of Strategic Futures Dean Ball published a response to Kimi K3's release arguing that open-source AI development makes the technology 'ungovernable,' reigniting the open vs. closed AI debate. The piece arrives as Moonshot AI's Kimi K3 — a 2.8-trillion-parameter open-weight model — is so popular it forced the company to gate new users due to GPU strain. Developers can download and benchmark Kimi K3 right now, making Ball's warning immediately testable against real open-weight frontier performance. The Verge reports that Alibaba's Qwen3.8 preview and Moonshot's Kimi K3 together represent a coordinated Chinese open-weight push, with both companies emphasizing free downloadability as a direct differentiator from closed US labs. US executives at Coinbase and Airbnb have publicly cited Kimi, GLM-5.2, and Qwen as cost-effective production alternatives they are actively using. Developers evaluating open-weight frontier alternatives have two new downloadable Chinese models to benchmark this week against GPT-5.6 and Fable 5.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-21/2026-07-21-ai-briefing.mp3" length="5985763" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Tuesday, July 21, 2026</itunes:title>
+      <itunes:summary>OpenAI's newly hired Head of Strategic Futures Dean Ball published a response to Kimi K3's release arguing that open-source AI development makes the technology 'ungovernable,' reigniting the open vs. closed AI debate. The piece arrives as Moonshot AI's Kimi K3 — a 2.8-trillion-parameter open-weight model — is so popular it forced the company to gate new users due to GPU strain. Developers can download and benchmark Kimi K3 right now, making Ball's warning immediately testable against real open-weight frontier performance. The Verge reports that Alibaba's Qwen3.8 preview and Moonshot's Kimi K3 together represent a coordinated Chinese open-weight push, with both companies emphasizing free downloadability as a direct differentiator from closed US labs. US executives at Coinbase and Airbnb have publicly cited Kimi, GLM-5.2, and Qwen as cost-effective production alternatives they are actively using. Developers evaluating open-weight frontier alternatives have two new downloadable Chinese models to benchmark this week against GPT-5.6 and Fable 5.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Monday, July 20, 2026</title>
       <pubDate>Mon, 20 Jul 2026 07:38:07 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-20/2026-07-20-ai-briefing.mp3</guid>
