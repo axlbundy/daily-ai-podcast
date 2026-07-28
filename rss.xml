@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                  <item>
+      <title>AI Briefing — Tuesday, July 28, 2026</title>
+      <pubDate>Tue, 28 Jul 2026 07:38:54 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-28/2026-07-28-ai-briefing.mp3</guid>
+      <description>Microsoft unveiled a new generative AI model purpose-built for cybersecurity, the company's first in the category, which will power its Project Perception collection of AI agents for discovering and fixing vulnerabilities. The model goes into public preview on August 3, giving security practitioners a concrete Microsoft-native tool to test. This is a fresh AI release with a specific launch date and direct enterprise utility. Bloomberg and Yahoo Finance confirm that Moonshot AI released Kimi K3's model weights on Monday July 27, making the frontier-tier model that triggered an AI stock selloff fully downloadable and self-hostable by any developer. Founder Yang Zhilin framed the release as a direct challenge to closed US proprietary systems, emphasizing free availability as a core differentiator. Developers who want to run a Chinese frontier-class model entirely on their own infrastructure can download and benchmark it right now.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-28/2026-07-28-ai-briefing.mp3" length="5732226" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Tuesday, July 28, 2026</itunes:title>
+      <itunes:summary>Microsoft unveiled a new generative AI model purpose-built for cybersecurity, the company's first in the category, which will power its Project Perception collection of AI agents for discovering and fixing vulnerabilities. The model goes into public preview on August 3, giving security practitioners a concrete Microsoft-native tool to test. This is a fresh AI release with a specific launch date and direct enterprise utility. Bloomberg and Yahoo Finance confirm that Moonshot AI released Kimi K3's model weights on Monday July 27, making the frontier-tier model that triggered an AI stock selloff fully downloadable and self-hostable by any developer. Founder Yang Zhilin framed the release as a direct challenge to closed US proprietary systems, emphasizing free availability as a core differentiator. Developers who want to run a Chinese frontier-class model entirely on their own infrastructure can download and benchmark it right now.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Monday, July 27, 2026</title>
       <pubDate>Mon, 27 Jul 2026 07:38:46 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-27/2026-07-27-ai-briefing.mp3</guid>
