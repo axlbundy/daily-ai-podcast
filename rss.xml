@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                      <item>
+      <title>AI Briefing — Wednesday, July 29, 2026</title>
+      <pubDate>Wed, 29 Jul 2026 07:38:56 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-29/2026-07-29-ai-briefing.mp3</guid>
+      <description>Anthropic's AI Model Tracker confirms Claude Sonnet 4.6 released June 30, 2026, with a 1 million token context window, 128K output, and SWE-bench Verified score of 85.2% — positioning it as the 'most agentic Sonnet' and near-Opus capability at standard pricing of $3/$15 per million tokens through August 31. Developers building long-context or agentic pipelines have a concrete new model ID to test on the Claude API right now. With three days left before the first formal US government deadline for frontier AI model oversight, OpenAI and Anthropic have been co-authoring review thresholds in Washington that would apply to rivals Meta and xAI — without public disclosure of the full terms. TechCrunch reports the two companies are pushing the Trump administration toward a consistent federal review process, raising concerns about regulatory capture by the very labs being regulated. Developers shipping or evaluating frontier models should watch this closely as it could affect release timelines across the industry.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-29/2026-07-29-ai-briefing.mp3" length="5865139" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Wednesday, July 29, 2026</itunes:title>
+      <itunes:summary>Anthropic's AI Model Tracker confirms Claude Sonnet 4.6 released June 30, 2026, with a 1 million token context window, 128K output, and SWE-bench Verified score of 85.2% — positioning it as the 'most agentic Sonnet' and near-Opus capability at standard pricing of $3/$15 per million tokens through August 31. Developers building long-context or agentic pipelines have a concrete new model ID to test on the Claude API right now. With three days left before the first formal US government deadline for frontier AI model oversight, OpenAI and Anthropic have been co-authoring review thresholds in Washington that would apply to rivals Meta and xAI — without public disclosure of the full terms. TechCrunch reports the two companies are pushing the Trump administration toward a consistent federal review process, raising concerns about regulatory capture by the very labs being regulated. Developers shipping or evaluating frontier models should watch this closely as it could affect release timelines across the industry.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Tuesday, July 28, 2026</title>
       <pubDate>Tue, 28 Jul 2026 07:38:54 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-28/2026-07-28-ai-briefing.mp3</guid>
