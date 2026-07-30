@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                          <item>
+      <title>AI Briefing — Thursday, July 30, 2026</title>
+      <pubDate>Thu, 30 Jul 2026 07:39:24 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-30/2026-07-30-ai-briefing.mp3</guid>
+      <description>How-To Geek published a Wednesday guide showing how to turn a Raspberry Pi into a custom TV dashboard displaying weather, calendar events, and other home data. The project is fully buildable today using widely available hardware and free software, giving homelab builders a practical, always-on display layer for their smart home setup. Home Assistant users can feed live sensor and calendar data directly into the dashboard. A Tuesday How-To Geek guide details how an NFC-enabled ESP32 microcontroller can replicate five costly smart home devices at a fraction of the price, covering the full build process. The project is immediately replicable using readily available hardware and integrates with standard smart home platforms including Home Assistant. Homelab builders looking to cut hardware costs while expanding their automation setup have a concrete, priced alternative to commercial devices.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-30/2026-07-30-ai-briefing.mp3" length="5989851" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Thursday, July 30, 2026</itunes:title>
+      <itunes:summary>How-To Geek published a Wednesday guide showing how to turn a Raspberry Pi into a custom TV dashboard displaying weather, calendar events, and other home data. The project is fully buildable today using widely available hardware and free software, giving homelab builders a practical, always-on display layer for their smart home setup. Home Assistant users can feed live sensor and calendar data directly into the dashboard. A Tuesday How-To Geek guide details how an NFC-enabled ESP32 microcontroller can replicate five costly smart home devices at a fraction of the price, covering the full build process. The project is immediately replicable using readily available hardware and integrates with standard smart home platforms including Home Assistant. Homelab builders looking to cut hardware costs while expanding their automation setup have a concrete, priced alternative to commercial devices.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Wednesday, July 29, 2026</title>
       <pubDate>Wed, 29 Jul 2026 07:38:56 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-29/2026-07-29-ai-briefing.mp3</guid>
