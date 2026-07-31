@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                              <item>
+      <title>AI Briefing — Friday, July 31, 2026</title>
+      <pubDate>Fri, 31 Jul 2026 07:39:34 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-31/2026-07-31-ai-briefing.mp3</guid>
+      <description>Reuters reports that US-based Thinking Machines released Tinker, a new open-source model that Bridgewater Associates used to build a custom version of Alibaba's Qwen that outperformed top proprietary models at lower cost. The release is concrete evidence of a growing sovereign-model market that McKinsey estimates could reach $100–140 billion by 2030. Developers and enterprises evaluating open-weight alternatives to proprietary APIs now have a named, usable model to benchmark. A Substack roundup from Dr. Alex Wissner-Gross notes Amazon is retiring most of its Nova model line, redirecting scarce Blackwell compute to Pieter Abbeel's new initiative amid the post-Kimi K3 compute squeeze. This is a concrete product lineup change at AWS that affects developers currently building on Nova-based APIs. Teams relying on Amazon Nova endpoints should audit their dependencies and evaluate migration paths now.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-31/2026-07-31-ai-briefing.mp3" length="6389696" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Friday, July 31, 2026</itunes:title>
+      <itunes:summary>Reuters reports that US-based Thinking Machines released Tinker, a new open-source model that Bridgewater Associates used to build a custom version of Alibaba's Qwen that outperformed top proprietary models at lower cost. The release is concrete evidence of a growing sovereign-model market that McKinsey estimates could reach $100–140 billion by 2030. Developers and enterprises evaluating open-weight alternatives to proprietary APIs now have a named, usable model to benchmark. A Substack roundup from Dr. Alex Wissner-Gross notes Amazon is retiring most of its Nova model line, redirecting scarce Blackwell compute to Pieter Abbeel's new initiative amid the post-Kimi K3 compute squeeze. This is a concrete product lineup change at AWS that affects developers currently building on Nova-based APIs. Teams relying on Amazon Nova endpoints should audit their dependencies and evaluate migration paths now.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Thursday, July 30, 2026</title>
       <pubDate>Thu, 30 Jul 2026 07:39:24 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-07-30/2026-07-30-ai-briefing.mp3</guid>
