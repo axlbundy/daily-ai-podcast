@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                          <item>
+      <title>AI Briefing — Monday, August 3, 2026</title>
+      <pubDate>Mon, 03 Aug 2026 07:39:14 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-03/2026-08-03-ai-briefing.mp3</guid>
+      <description>A developer released TurboFieldfare, a free tool that runs Google's 27B Gemma model on Mac laptops with as little as 8GB of RAM by streaming model weights from storage rather than loading them fully into memory. It achieves 5-6 words per second on a base MacBook Air and 31-35 on a MacBook Pro, making a frontier-class open model accessible on budget hardware. Homelab builders and developers who previously couldn't run Gemma locally due to memory constraints have a concrete, free tool to try right now. Help Net Security's week-in-review confirms Microsoft's MAI-Cyber-1-Flash — a security-focused AI model built into the MDASH multi-agent vulnerability discovery platform — is now in public preview, promising cybersecurity AI at half the cost of comparable tools. The model is the first purpose-built AI for cybersecurity from Microsoft and is available for security practitioners to test today. Teams running vulnerability discovery pipelines have a named, accessible Microsoft-native model to evaluate right now.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-03/2026-08-03-ai-briefing.mp3" length="5967179" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Monday, August 3, 2026</itunes:title>
+      <itunes:summary>A developer released TurboFieldfare, a free tool that runs Google's 27B Gemma model on Mac laptops with as little as 8GB of RAM by streaming model weights from storage rather than loading them fully into memory. It achieves 5-6 words per second on a base MacBook Air and 31-35 on a MacBook Pro, making a frontier-class open model accessible on budget hardware. Homelab builders and developers who previously couldn't run Gemma locally due to memory constraints have a concrete, free tool to try right now. Help Net Security's week-in-review confirms Microsoft's MAI-Cyber-1-Flash — a security-focused AI model built into the MDASH multi-agent vulnerability discovery platform — is now in public preview, promising cybersecurity AI at half the cost of comparable tools. The model is the first purpose-built AI for cybersecurity from Microsoft and is available for security practitioners to test today. Teams running vulnerability discovery pipelines have a named, accessible Microsoft-native model to evaluate right now.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Sunday, August 2, 2026</title>
       <pubDate>Sun, 02 Aug 2026 07:39:06 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-02/2026-08-02-ai-briefing.mp3</guid>
