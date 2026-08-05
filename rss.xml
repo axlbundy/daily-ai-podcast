@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                  <item>
+      <title>AI Briefing — Wednesday, August 5, 2026</title>
+      <pubDate>Wed, 05 Aug 2026 07:39:06 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-05/2026-08-05-ai-briefing.mp3</guid>
+      <description>Alibaba released Qwen3.8-Max, a 2.4 trillion-parameter model priced at $2.00 input / $6.00 output per million tokens, just days after Moonshot's Kimi K3 dropped at 2.8 trillion parameters. The rapid back-to-back releases from Chinese labs are setting a new price-performance floor for the entire frontier model market. Developers can access Qwen3.8-Max via API right now and benchmark it against Kimi K3 and GPT-5.6. MiniMax launched H3, its first open-source multimodal generation model that integrates video generation, editing, and multimodal understanding into a single unified model. The release came the same day ByteDance rolled out Seedance 2.5 with 30-second video generation and DeepSeek launched the public beta of V4-Flash with agentic and coding upgrades. Developers building multimodal pipelines now have an open-source option from MiniMax to download and test immediately.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-05/2026-08-05-ai-briefing.mp3" length="5907214" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Wednesday, August 5, 2026</itunes:title>
+      <itunes:summary>Alibaba released Qwen3.8-Max, a 2.4 trillion-parameter model priced at $2.00 input / $6.00 output per million tokens, just days after Moonshot's Kimi K3 dropped at 2.8 trillion parameters. The rapid back-to-back releases from Chinese labs are setting a new price-performance floor for the entire frontier model market. Developers can access Qwen3.8-Max via API right now and benchmark it against Kimi K3 and GPT-5.6. MiniMax launched H3, its first open-source multimodal generation model that integrates video generation, editing, and multimodal understanding into a single unified model. The release came the same day ByteDance rolled out Seedance 2.5 with 30-second video generation and DeepSeek launched the public beta of V4-Flash with agentic and coding upgrades. Developers building multimodal pipelines now have an open-source option from MiniMax to download and test immediately.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Tuesday, August 4, 2026</title>
       <pubDate>Tue, 04 Aug 2026 07:38:46 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-04/2026-08-04-ai-briefing.mp3</guid>
