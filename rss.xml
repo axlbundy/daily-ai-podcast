@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                              <item>
+      <title>AI Briefing — Saturday, August 8, 2026</title>
+      <pubDate>Sat, 08 Aug 2026 07:39:01 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-08/2026-08-08-ai-briefing.mp3</guid>
+      <description>Nvidia released Alpamayo 2 Super, an open 34B parameter reasoning vision-language-action model combining the Cosmos 3 Super Reasoner with a 2B diffusion-based action head, designed to accelerate autonomous vehicle development. The model is available now and represents a significant open-weight release for developers building physical AI and robotics pipelines. Teams working on autonomous systems have a concrete, downloadable Nvidia-backed VLA model to benchmark immediately. Pat McGuinness's August 7 week-in-review confirms Meta released Muse Spark 1.2, an updated multimodal reasoning model from Meta Superintelligence Labs available via the public Meta Model API. The release follows Muse Spark 1.1 just days earlier, signaling rapid iteration from Meta's new AI division. Developers evaluating frontier multimodal models have an updated Meta-native API endpoint to benchmark right now.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-08/2026-08-08-ai-briefing.mp3" length="6053946" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Saturday, August 8, 2026</itunes:title>
+      <itunes:summary>Nvidia released Alpamayo 2 Super, an open 34B parameter reasoning vision-language-action model combining the Cosmos 3 Super Reasoner with a 2B diffusion-based action head, designed to accelerate autonomous vehicle development. The model is available now and represents a significant open-weight release for developers building physical AI and robotics pipelines. Teams working on autonomous systems have a concrete, downloadable Nvidia-backed VLA model to benchmark immediately. Pat McGuinness's August 7 week-in-review confirms Meta released Muse Spark 1.2, an updated multimodal reasoning model from Meta Superintelligence Labs available via the public Meta Model API. The release follows Muse Spark 1.1 just days earlier, signaling rapid iteration from Meta's new AI division. Developers evaluating frontier multimodal models have an updated Meta-native API endpoint to benchmark right now.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Friday, August 7, 2026</title>
       <pubDate>Fri, 07 Aug 2026 07:39:33 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-07/2026-08-07-ai-briefing.mp3</guid>
