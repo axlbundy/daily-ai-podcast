@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+      <title>AI Briefing — Monday, August 10, 2026</title>
+      <pubDate>Mon, 10 Aug 2026 07:38:55 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-10/2026-08-10-ai-briefing.mp3</guid>
+      <description>Meta launched Muse Glimmer today, a distilled open-source version of Muse Spark 1.2 designed to run on laptops, with integrations coming for llama.cpp, MLX, ExecuTorch, Ollama, LM Studio, Together AI, and Fireworks AI. Reuters also reports Meta plans to release the full Muse Spark 1.2 weights publicly. Developers and hobbyists who want a frontier-class Meta model running locally on consumer hardware now have a concrete, downloadable option. n8n launched a new MCP server built specifically to work with agentic coding tools like Claude Code and Codex, giving users a way to combine visual workflow automation with autonomous AI agents. The YouTube breakdown argues this is a significant shift because it lets n8n act as an orchestration layer for agentic pipelines rather than just a standalone automation tool. Developers running Claude Code or Codex workflows can connect them to n8n's ecosystem of app integrations starting now.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-10/2026-08-10-ai-briefing.mp3" length="5824422" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Monday, August 10, 2026</itunes:title>
+      <itunes:summary>Meta launched Muse Glimmer today, a distilled open-source version of Muse Spark 1.2 designed to run on laptops, with integrations coming for llama.cpp, MLX, ExecuTorch, Ollama, LM Studio, Together AI, and Fireworks AI. Reuters also reports Meta plans to release the full Muse Spark 1.2 weights publicly. Developers and hobbyists who want a frontier-class Meta model running locally on consumer hardware now have a concrete, downloadable option. n8n launched a new MCP server built specifically to work with agentic coding tools like Claude Code and Codex, giving users a way to combine visual workflow automation with autonomous AI agents. The YouTube breakdown argues this is a significant shift because it lets n8n act as an orchestration layer for agentic pipelines rather than just a standalone automation tool. Developers running Claude Code or Codex workflows can connect them to n8n's ecosystem of app integrations starting now.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Sunday, August 9, 2026</title>
       <pubDate>Sun, 09 Aug 2026 07:39:09 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-09/2026-08-09-ai-briefing.mp3</guid>
