@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+      <title>AI Briefing — Sunday, August 16, 2026</title>
+      <pubDate>Sun, 16 Aug 2026 07:39:12 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-16/2026-08-16-ai-briefing.mp3</guid>
+      <description>Mistral has released Shieldstral 1.0, a 3B open-weights policy-adaptive safety classifier that matches the performance of much larger safety models. The lightweight model is designed for content moderation and policy-aware filtering, giving developers a self-hostable alternative to heavyweight safety layers. It's available now for download and deployment. South Korea's Motif Technologies released Motif 3 under the MIT license, a 314B total parameter mixture-of-experts model with approximately 13.2B active parameters designed specifically for agentic work and tool use. The MIT license makes it one of the most permissively licensed large MoE models available, fully open for commercial use. Developers building autonomous agent pipelines have a new high-capacity open-weight model to benchmark immediately.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-16/2026-08-16-ai-briefing.mp3" length="6169748" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Sunday, August 16, 2026</itunes:title>
+      <itunes:summary>Mistral has released Shieldstral 1.0, a 3B open-weights policy-adaptive safety classifier that matches the performance of much larger safety models. The lightweight model is designed for content moderation and policy-aware filtering, giving developers a self-hostable alternative to heavyweight safety layers. It's available now for download and deployment. South Korea's Motif Technologies released Motif 3 under the MIT license, a 314B total parameter mixture-of-experts model with approximately 13.2B active parameters designed specifically for agentic work and tool use. The MIT license makes it one of the most permissively licensed large MoE models available, fully open for commercial use. Developers building autonomous agent pipelines have a new high-capacity open-weight model to benchmark immediately.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Saturday, August 15, 2026</title>
       <pubDate>Sat, 15 Aug 2026 07:38:46 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-15/2026-08-15-ai-briefing.mp3</guid>
