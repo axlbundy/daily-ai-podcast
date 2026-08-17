@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+      <title>AI Briefing — Monday, August 17, 2026</title>
+      <pubDate>Mon, 17 Aug 2026 07:39:15 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-17/2026-08-17-ai-briefing.mp3</guid>
+      <description>Google is releasing Gemini 3.7 Flash just three weeks after Gemini 3.6 Flash, citing developer feedback and algorithmic improvements as the driver of the unusually fast turnaround. API prices are temporarily cut in half through year-end, coming in at $0.75 per million input tokens and $3.75 per million output tokens. Developers already on the Gemini API can access the new model now at significantly reduced cost. DeepSeek has officially released its V4 Pro model, continuing the lab's strategy of pressuring Western AI labs on both capability and cost through strong open-weight releases. The launch comes as open-weight competition between Chinese and US labs accelerates, with DeepSeek also releasing DeepSeek Harness, a modular open-source agent framework designed to compete with tools like Claude Code. Developers evaluating cost-efficient open-weight coding and agentic models have a new entry to benchmark immediately.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-17/2026-08-17-ai-briefing.mp3" length="5849748" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Monday, August 17, 2026</itunes:title>
+      <itunes:summary>Google is releasing Gemini 3.7 Flash just three weeks after Gemini 3.6 Flash, citing developer feedback and algorithmic improvements as the driver of the unusually fast turnaround. API prices are temporarily cut in half through year-end, coming in at $0.75 per million input tokens and $3.75 per million output tokens. Developers already on the Gemini API can access the new model now at significantly reduced cost. DeepSeek has officially released its V4 Pro model, continuing the lab's strategy of pressuring Western AI labs on both capability and cost through strong open-weight releases. The launch comes as open-weight competition between Chinese and US labs accelerates, with DeepSeek also releasing DeepSeek Harness, a modular open-source agent framework designed to compete with tools like Claude Code. Developers evaluating cost-efficient open-weight coding and agentic models have a new entry to benchmark immediately.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Sunday, August 16, 2026</title>
       <pubDate>Sun, 16 Aug 2026 07:39:12 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-16/2026-08-16-ai-briefing.mp3</guid>
