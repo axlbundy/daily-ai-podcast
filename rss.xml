@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+      <title>AI Briefing — Tuesday, August 18, 2026</title>
+      <pubDate>Tue, 18 Aug 2026 07:39:19 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-18/2026-08-18-ai-briefing.mp3</guid>
+      <description>DeepSeek launched DeepSeek Harness v0.1 alongside the official release of DeepSeek-V4-Pro, giving developers an open-source agent harness as a direct alternative to Anthropic's Claude Code. V4-Pro is now live across DeepSeek's web interface, mobile app, and API with native OpenAI Responses API support and Codex integration. Developers evaluating cost-efficient agentic coding environments have a concrete, usable new stack to benchmark immediately. Apollo Automation has released an ESP32-C6-based ESPHome Starter Kit that lets users build modular smart-home sensors and devices without soldering, breadboards, or writing code. The kit operates fully locally and integrates directly with Home Assistant, arriving alongside the 2026.8 release under the 'Approachable by design' theme. Home Assistant users looking for a subscription-free, hands-on hardware entry point have a purchasable, code-optional kit to try right now.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-18/2026-08-18-ai-briefing.mp3" length="6172377" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Tuesday, August 18, 2026</itunes:title>
+      <itunes:summary>DeepSeek launched DeepSeek Harness v0.1 alongside the official release of DeepSeek-V4-Pro, giving developers an open-source agent harness as a direct alternative to Anthropic's Claude Code. V4-Pro is now live across DeepSeek's web interface, mobile app, and API with native OpenAI Responses API support and Codex integration. Developers evaluating cost-efficient agentic coding environments have a concrete, usable new stack to benchmark immediately. Apollo Automation has released an ESP32-C6-based ESPHome Starter Kit that lets users build modular smart-home sensors and devices without soldering, breadboards, or writing code. The kit operates fully locally and integrates directly with Home Assistant, arriving alongside the 2026.8 release under the 'Approachable by design' theme. Home Assistant users looking for a subscription-free, hands-on hardware entry point have a purchasable, code-optional kit to try right now.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Monday, August 17, 2026</title>
       <pubDate>Mon, 17 Aug 2026 07:39:15 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-17/2026-08-17-ai-briefing.mp3</guid>
