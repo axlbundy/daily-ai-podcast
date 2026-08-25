@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+      <title>AI Briefing — Tuesday, August 25, 2026</title>
+      <pubDate>Tue, 25 Aug 2026 07:39:19 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-25/2026-08-25-ai-briefing.mp3</guid>
+      <description>Meta has released Muse Code, a terminal-based AI coding agent powered by the new Muse Spark 1.2 model, directly taking on Anthropic's Claude Code and OpenAI's Codex. The agent is available now in beta and represents Meta's first entry into agentic coding tools. Developers evaluating open-weight coding agents have a new, immediately usable option from one of the largest AI labs. Alibaba has released Qwen3.8 Max, a massive 2.4 trillion parameter open model for cloud deployment, alongside a companion Qwen3.8-27B model designed to run locally on consumer hardware. The dual release continues Alibaba's aggressive open-weight strategy, which has already driven Qwen to 2 billion downloads on Hugging Face. Developers looking for a frontier-scale open model with a local companion now have a concrete new option to evaluate.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-25/2026-08-25-ai-briefing.mp3" length="5961572" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Tuesday, August 25, 2026</itunes:title>
+      <itunes:summary>Meta has released Muse Code, a terminal-based AI coding agent powered by the new Muse Spark 1.2 model, directly taking on Anthropic's Claude Code and OpenAI's Codex. The agent is available now in beta and represents Meta's first entry into agentic coding tools. Developers evaluating open-weight coding agents have a new, immediately usable option from one of the largest AI labs. Alibaba has released Qwen3.8 Max, a massive 2.4 trillion parameter open model for cloud deployment, alongside a companion Qwen3.8-27B model designed to run locally on consumer hardware. The dual release continues Alibaba's aggressive open-weight strategy, which has already driven Qwen to 2 billion downloads on Hugging Face. Developers looking for a frontier-scale open model with a local companion now have a concrete new option to evaluate.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Monday, August 24, 2026</title>
       <pubDate>Mon, 24 Aug 2026 07:39:31 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-24/2026-08-24-ai-briefing.mp3</guid>
