@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+      <title>AI Briefing — Wednesday, August 26, 2026</title>
+      <pubDate>Wed, 26 Aug 2026 07:38:42 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-26/2026-08-26-ai-briefing.mp3</guid>
+      <description>OpenAI is shutting down its Assistants API on August 26, 2026 — today — making this an immediate product continuity issue for any live application using Assistants, Thread IDs, or Run events. The successor is the Responses API, with Conversations for durable state and Prompts for versioned configuration, which OpenAI says has reached feature parity. Developers running production apps on the old API need a tested migration path right now. Anthropic is rolling out shared memory across Claude's chat and Cowork sessions, so users no longer have to re-brief the model on project context, preferences, or background each time they start a session. This is a concrete usability upgrade for developers and power users running multi-session agentic workflows. The feature appears to be live now per the TechCrunch report surfaced in the LLM News Today tracker.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-26/2026-08-26-ai-briefing.mp3" length="5412234" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Wednesday, August 26, 2026</itunes:title>
+      <itunes:summary>OpenAI is shutting down its Assistants API on August 26, 2026 — today — making this an immediate product continuity issue for any live application using Assistants, Thread IDs, or Run events. The successor is the Responses API, with Conversations for durable state and Prompts for versioned configuration, which OpenAI says has reached feature parity. Developers running production apps on the old API need a tested migration path right now. Anthropic is rolling out shared memory across Claude's chat and Cowork sessions, so users no longer have to re-brief the model on project context, preferences, or background each time they start a session. This is a concrete usability upgrade for developers and power users running multi-session agentic workflows. The feature appears to be live now per the TechCrunch report surfaced in the LLM News Today tracker.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Tuesday, August 25, 2026</title>
       <pubDate>Tue, 25 Aug 2026 07:39:19 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-25/2026-08-25-ai-briefing.mp3</guid>
