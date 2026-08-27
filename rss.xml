@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+      <title>AI Briefing — Thursday, August 27, 2026</title>
+      <pubDate>Thu, 27 Aug 2026 07:39:35 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-27/2026-08-27-ai-briefing.mp3</guid>
+      <description>An anonymous model called Ox Alpha appeared on OpenRouter and OpenCode on August 20, accepting text, images, and video with a one-million-token context window and free access for roughly one week. Community fingerprinting suggests a Chinese lab origin, with Z.ai's GLM family as the leading theory, though no creator has claimed it. Developers have a rare chance to benchmark a possible frontier model at zero cost, with the caveat that the provider retains prompts and completions. The official Anthropic Python SDK reached version 1.0.0 on PyPI on August 20, 2026, a significant milestone marking the library's first stable major release. This is a concrete signal of API maturity for developers building production applications on Claude, arriving the same week as Anthropic's cross-session shared memory rollout. Teams pinning dependency versions now have a stable semver anchor to build against.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-27/2026-08-27-ai-briefing.mp3" length="6145931" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Thursday, August 27, 2026</itunes:title>
+      <itunes:summary>An anonymous model called Ox Alpha appeared on OpenRouter and OpenCode on August 20, accepting text, images, and video with a one-million-token context window and free access for roughly one week. Community fingerprinting suggests a Chinese lab origin, with Z.ai's GLM family as the leading theory, though no creator has claimed it. Developers have a rare chance to benchmark a possible frontier model at zero cost, with the caveat that the provider retains prompts and completions. The official Anthropic Python SDK reached version 1.0.0 on PyPI on August 20, 2026, a significant milestone marking the library's first stable major release. This is a concrete signal of API maturity for developers building production applications on Claude, arriving the same week as Anthropic's cross-session shared memory rollout. Teams pinning dependency versions now have a stable semver anchor to build against.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Wednesday, August 26, 2026</title>
       <pubDate>Wed, 26 Aug 2026 07:38:42 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-08-26/2026-08-26-ai-briefing.mp3</guid>
