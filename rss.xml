@@ -21,7 +21,17 @@
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+      <title>AI Briefing — Saturday, October 24, 2026</title>
+      <pubDate>Sat, 24 Oct 2026 07:39:14 -0700</pubDate>
+      <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-10-24/2026-10-24-ai-briefing.mp3</guid>
+      <description>Canva released Craft, its first proprietary AI image generation model, which plans out a design composition before generating the final image rather than producing output in a single pass. The approach targets design coherence and is available inside Canva's tools now, giving designers a native AI image option without leaving the platform. JetBrains survey data shows Claude Code is now used at work by 18% of developers worldwide, matching Cursor and representing a 6x increase from roughly 3% in spring 2025 — the fastest growth rate of any tool JetBrains tracks. The figure gives developers a concrete market-share benchmark when evaluating which agentic coding tool to standardize on.</description>
+      <enclosure url="https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-10-24/2026-10-24-ai-briefing.mp3" length="6051065" type="audio/mpeg"/>
+      <itunes:title>AI Briefing — Saturday, October 24, 2026</itunes:title>
+      <itunes:summary>Canva released Craft, its first proprietary AI image generation model, which plans out a design composition before generating the final image rather than producing output in a single pass. The approach targets design coherence and is available inside Canva's tools now, giving designers a native AI image option without leaving the platform. JetBrains survey data shows Claude Code is now used at work by 18% of developers worldwide, matching Cursor and representing a 6x increase from roughly 3% in spring 2025 — the fastest growth rate of any tool JetBrains tracks. The figure gives developers a concrete market-share benchmark when evaluating which agentic coding tool to standardize on.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+<item>
       <title>AI Briefing — Friday, October 23, 2026</title>
       <pubDate>Fri, 23 Oct 2026 07:39:31 -0700</pubDate>
       <guid isPermaLink="true">https://github.com/axlbundy/daily-ai-podcast/releases/download/2026-10-23/2026-10-23-ai-briefing.mp3</guid>
